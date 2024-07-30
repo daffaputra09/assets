@@ -1,337 +1,274 @@
-export default function Page({ params }: { params: { id: string } }) {
-  const contentData = {
-    statusCode: 200,
-    message: "OK",
-    fulfilled: 1,
-    data: {
-      generate_id:
-        "queue/b24ee361-98f9-4a86-8918-4410c8f3a57d/1722305682771/4c58b11d-2722-422b-96f4-a6aa3089a02c",
-      progress_status: "chapter_finish",
-      training_detail_data: {
-        training_detail_title: "Uji Pemahaman tentang Mohammad Hatta",
-        training_detail_content_type: "exam",
-        training_detail_content: null,
-        training_detail_content_exam: [
-          {
-            question:
-              "Mohammad Hatta menyelesaikan pendidikan formalnya di Belanda pada tahun 1932 dengan gelar sarjana ekonomi. Apa nama institusi pendidikan yang diikutinya di Belanda?",
-            multiple_choices: [
-              {
-                choice: "Universitas Leiden",
-                is_correct: false,
-              },
-              {
-                choice: "Universitas Amsterdam",
-                is_correct: false,
-              },
-              {
-                choice: "Handels Hoogere School (HHS) di Rotterdam",
-                is_correct: true,
-              },
-              {
-                choice: "Universitas Utrecht",
-                is_correct: false,
-              },
-              {
-                choice: "Universitas Groningen",
-                is_correct: false,
-              },
+{
+    "statusCode": 200,
+    "message": "OK",
+    "fulfilled": 1,
+    "data": {
+        "generate_id": "queue/b24ee361-98f9-4a86-8918-4410c8f3a57d/1722305682771/4c58b11d-2722-422b-96f4-a6aa3089a02c",
+        "progress_status": "chapter_finish",
+        "training_detail_data": {
+            "training_detail_title": "Uji Pemahaman tentang Mohammad Hatta",
+            "training_detail_content_type": "exam",
+            "training_detail_content": null,
+            "training_detail_content_exam": [
+                {
+                    "question": "Mohammad Hatta menyelesaikan pendidikan formalnya di Belanda pada tahun 1932 dengan gelar sarjana ekonomi. Apa nama institusi pendidikan yang diikutinya di Belanda?",
+                    "multiple_choices": [
+                        {
+                            "choice": "Universitas Leiden",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Universitas Amsterdam",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Handels Hoogere School (HHS) di Rotterdam",
+                            "is_correct": true
+                        },
+                        {
+                            "choice": "Universitas Utrecht",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Universitas Groningen",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Jelaskan bagaimana pengaruh pendidikan formal Mohammad Hatta di Belanda terhadap pemikirannya?",
+                    "multiple_choices": [
+                        {
+                            "choice": "Pendidikan di Belanda tidak memberikan pengaruh signifikan terhadap pemikiran Hatta.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Pendidikan di Belanda memperkuat nasionalisme Hatta dan mendorongnya untuk memperjuangkan kemerdekaan Indonesia.",
+                            "is_correct": true
+                        },
+                        {
+                            "choice": "Pendidikan di Belanda membuat Hatta lebih tertarik pada ideologi komunis.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Pendidikan di Belanda membuat Hatta lebih tertarik pada ideologi liberalisme.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Pendidikan di Belanda tidak memberikan pengaruh terhadap pemikiran Hatta, karena ia lebih terpengaruh oleh pemikiran tokoh-tokoh nasionalis Indonesia.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Apa nama organisasi politik yang diikutsertai Mohammad Hatta di Belanda dan apa peran pentingnya dalam organisasi tersebut?",
+                    "multiple_choices": [
+                        {
+                            "choice": "Perhimpunan Indonesia (PI), Hatta menjabat sebagai bendahara dan pemimpin majalah.",
+                            "is_correct": true
+                        },
+                        {
+                            "choice": "Jong Sumatranen Bond (JSB), Hatta menjabat sebagai bendahara.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Indische Vereeniging, Hatta menjabat sebagai sekretaris.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Partai Nasional Indonesia (PNI), Hatta menjabat sebagai ketua.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Gerakan Rakyat Indonesia (Gerindo), Hatta menjabat sebagai bendahara.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Jelaskan peran Mohammad Hatta dalam memperjuangkan kemerdekaan Indonesia, termasuk strategi dan taktik yang digunakannya.",
+                    "multiple_choices": [
+                        {
+                            "choice": "Hatta tidak berperan aktif dalam perjuangan kemerdekaan Indonesia.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai diplomat dan negosiator, menggunakan strategi diplomasi dan perundingan untuk mencapai kemerdekaan.",
+                            "is_correct": true
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai pemimpin militer, memimpin pasukan Indonesia dalam melawan Belanda.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai agitator, menggunakan propaganda dan demonstrasi untuk menggerakkan rakyat.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai penulis, menyebarkan ideologi kemerdekaan melalui tulisan-tulisannya.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Apa peran Mohammad Hatta dalam perumusan teks Proklamasi Kemerdekaan Indonesia?",
+                    "multiple_choices": [
+                        {
+                            "choice": "Hatta tidak terlibat dalam perumusan teks Proklamasi Kemerdekaan.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai salah satu perumus teks Proklamasi Kemerdekaan bersama Soekarno.",
+                            "is_correct": true
+                        },
+                        {
+                            "choice": "Hatta hanya berperan sebagai pembaca teks Proklamasi Kemerdekaan.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai penasihat dalam perumusan teks Proklamasi Kemerdekaan.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai pengoreksi teks Proklamasi Kemerdekaan.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Jelaskan peran Mohammad Hatta sebagai Wakil Presiden pertama Republik Indonesia, termasuk kebijakan dan program yang dijalankan.",
+                    "multiple_choices": [
+                        {
+                            "choice": "Hatta tidak berperan aktif sebagai Wakil Presiden.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai penasihat dan pendukung kebijakan Soekarno.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai pemimpin dalam bidang ekonomi dan keuangan, fokus pada pembangunan ekonomi dan stabilitas keuangan.",
+                            "is_correct": true
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai pemimpin dalam bidang militer, fokus pada penguatan militer dan keamanan nasional.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai pemimpin dalam bidang sosial, fokus pada peningkatan kesejahteraan rakyat.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Bagaimana peran Mohammad Hatta dalam menghadapi berbagai tantangan pasca kemerdekaan Indonesia?",
+                    "multiple_choices": [
+                        {
+                            "choice": "Hatta tidak berperan aktif dalam menghadapi tantangan pasca kemerdekaan.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai pemimpin dalam negosiasi dengan Belanda dan negara-negara lain.",
+                            "is_correct": true
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai pemimpin militer dalam menghadapi pemberontakan dan konflik internal.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai pemimpin dalam bidang sosial, fokus pada penanganan masalah kemiskinan dan pengangguran.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta berperan sebagai pemimpin dalam bidang pendidikan, fokus pada pengembangan sistem pendidikan nasional.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Apa warisan pemikiran dan ideologi Mohammad Hatta bagi bangsa Indonesia?",
+                    "multiple_choices": [
+                        {
+                            "choice": "Hatta tidak meninggalkan warisan pemikiran yang signifikan.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta meninggalkan warisan pemikiran tentang pentingnya nasionalisme, demokrasi, dan ekonomi kerakyatan.",
+                            "is_correct": true
+                        },
+                        {
+                            "choice": "Hatta meninggalkan warisan pemikiran tentang pentingnya komunisme dan sosialisme.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta meninggalkan warisan pemikiran tentang pentingnya liberalisme dan kapitalisme.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Hatta meninggalkan warisan pemikiran tentang pentingnya agama dan spiritualitas.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Jelaskan pengaruh pemikiran Mohammad Hatta dalam pembangunan ekonomi dan politik Indonesia.",
+                    "multiple_choices": [
+                        {
+                            "choice": "Pemikiran Hatta tidak berpengaruh signifikan dalam pembangunan ekonomi dan politik Indonesia.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Pemikiran Hatta tentang ekonomi kerakyatan dan demokrasi berpengaruh dalam kebijakan pembangunan ekonomi dan politik Indonesia.",
+                            "is_correct": true
+                        },
+                        {
+                            "choice": "Pemikiran Hatta tentang komunisme dan sosialisme berpengaruh dalam kebijakan pembangunan ekonomi dan politik Indonesia.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Pemikiran Hatta tentang liberalisme dan kapitalisme berpengaruh dalam kebijakan pembangunan ekonomi dan politik Indonesia.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Pemikiran Hatta tentang agama dan spiritualitas berpengaruh dalam kebijakan pembangunan ekonomi dan politik Indonesia.",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Bagaimana pengakuan atas jasa-jasa Mohammad Hatta dalam perjuangan kemerdekaan Indonesia?",
+                    "multiple_choices": [
+                        {
+                            "choice": "Jasa-jasa Hatta tidak diakui oleh bangsa Indonesia.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Jasa-jasa Hatta diakui sebagai salah satu Proklamator Kemerdekaan Indonesia.",
+                            "is_correct": true
+                        },
+                        {
+                            "choice": "Jasa-jasa Hatta hanya diakui oleh kalangan tertentu.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Jasa-jasa Hatta tidak mendapat pengakuan resmi dari pemerintah.",
+                            "is_correct": false
+                        },
+                        {
+                            "choice": "Jasa-jasa Hatta hanya diakui dalam bentuk penghargaan informal.",
+                            "is_correct": false
+                        }
+                    ]
+                }
             ],
-          },
-          {
-            question:
-              "Jelaskan bagaimana pengaruh pendidikan formal Mohammad Hatta di Belanda terhadap pemikirannya?",
-            multiple_choices: [
-              {
-                choice:
-                  "Pendidikan di Belanda tidak memberikan pengaruh signifikan terhadap pemikiran Hatta.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Pendidikan di Belanda memperkuat nasionalisme Hatta dan mendorongnya untuk memperjuangkan kemerdekaan Indonesia.",
-                is_correct: true,
-              },
-              {
-                choice:
-                  "Pendidikan di Belanda membuat Hatta lebih tertarik pada ideologi komunis.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Pendidikan di Belanda membuat Hatta lebih tertarik pada ideologi liberalisme.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Pendidikan di Belanda tidak memberikan pengaruh terhadap pemikiran Hatta, karena ia lebih terpengaruh oleh pemikiran tokoh-tokoh nasionalis Indonesia.",
-                is_correct: false,
-              },
-            ],
-          },
-          {
-            question:
-              "Apa nama organisasi politik yang diikutsertai Mohammad Hatta di Belanda dan apa peran pentingnya dalam organisasi tersebut?",
-            multiple_choices: [
-              {
-                choice:
-                  "Perhimpunan Indonesia (PI), Hatta menjabat sebagai bendahara dan pemimpin majalah.",
-                is_correct: true,
-              },
-              {
-                choice:
-                  "Jong Sumatranen Bond (JSB), Hatta menjabat sebagai bendahara.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Indische Vereeniging, Hatta menjabat sebagai sekretaris.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Partai Nasional Indonesia (PNI), Hatta menjabat sebagai ketua.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Gerakan Rakyat Indonesia (Gerindo), Hatta menjabat sebagai bendahara.",
-                is_correct: false,
-              },
-            ],
-          },
-          {
-            question:
-              "Jelaskan peran Mohammad Hatta dalam memperjuangkan kemerdekaan Indonesia, termasuk strategi dan taktik yang digunakannya.",
-            multiple_choices: [
-              {
-                choice:
-                  "Hatta tidak berperan aktif dalam perjuangan kemerdekaan Indonesia.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai diplomat dan negosiator, menggunakan strategi diplomasi dan perundingan untuk mencapai kemerdekaan.",
-                is_correct: true,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai pemimpin militer, memimpin pasukan Indonesia dalam melawan Belanda.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai agitator, menggunakan propaganda dan demonstrasi untuk menggerakkan rakyat.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai penulis, menyebarkan ideologi kemerdekaan melalui tulisan-tulisannya.",
-                is_correct: false,
-              },
-            ],
-          },
-          {
-            question:
-              "Apa peran Mohammad Hatta dalam perumusan teks Proklamasi Kemerdekaan Indonesia?",
-            multiple_choices: [
-              {
-                choice:
-                  "Hatta tidak terlibat dalam perumusan teks Proklamasi Kemerdekaan.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai salah satu perumus teks Proklamasi Kemerdekaan bersama Soekarno.",
-                is_correct: true,
-              },
-              {
-                choice:
-                  "Hatta hanya berperan sebagai pembaca teks Proklamasi Kemerdekaan.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai penasihat dalam perumusan teks Proklamasi Kemerdekaan.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai pengoreksi teks Proklamasi Kemerdekaan.",
-                is_correct: false,
-              },
-            ],
-          },
-          {
-            question:
-              "Jelaskan peran Mohammad Hatta sebagai Wakil Presiden pertama Republik Indonesia, termasuk kebijakan dan program yang dijalankan.",
-            multiple_choices: [
-              {
-                choice: "Hatta tidak berperan aktif sebagai Wakil Presiden.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai penasihat dan pendukung kebijakan Soekarno.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai pemimpin dalam bidang ekonomi dan keuangan, fokus pada pembangunan ekonomi dan stabilitas keuangan.",
-                is_correct: true,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai pemimpin dalam bidang militer, fokus pada penguatan militer dan keamanan nasional.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai pemimpin dalam bidang sosial, fokus pada peningkatan kesejahteraan rakyat.",
-                is_correct: false,
-              },
-            ],
-          },
-          {
-            question:
-              "Bagaimana peran Mohammad Hatta dalam menghadapi berbagai tantangan pasca kemerdekaan Indonesia?",
-            multiple_choices: [
-              {
-                choice:
-                  "Hatta tidak berperan aktif dalam menghadapi tantangan pasca kemerdekaan.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai pemimpin dalam negosiasi dengan Belanda dan negara-negara lain.",
-                is_correct: true,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai pemimpin militer dalam menghadapi pemberontakan dan konflik internal.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai pemimpin dalam bidang sosial, fokus pada penanganan masalah kemiskinan dan pengangguran.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta berperan sebagai pemimpin dalam bidang pendidikan, fokus pada pengembangan sistem pendidikan nasional.",
-                is_correct: false,
-              },
-            ],
-          },
-          {
-            question:
-              "Apa warisan pemikiran dan ideologi Mohammad Hatta bagi bangsa Indonesia?",
-            multiple_choices: [
-              {
-                choice:
-                  "Hatta tidak meninggalkan warisan pemikiran yang signifikan.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta meninggalkan warisan pemikiran tentang pentingnya nasionalisme, demokrasi, dan ekonomi kerakyatan.",
-                is_correct: true,
-              },
-              {
-                choice:
-                  "Hatta meninggalkan warisan pemikiran tentang pentingnya komunisme dan sosialisme.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta meninggalkan warisan pemikiran tentang pentingnya liberalisme dan kapitalisme.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Hatta meninggalkan warisan pemikiran tentang pentingnya agama dan spiritualitas.",
-                is_correct: false,
-              },
-            ],
-          },
-          {
-            question:
-              "Jelaskan pengaruh pemikiran Mohammad Hatta dalam pembangunan ekonomi dan politik Indonesia.",
-            multiple_choices: [
-              {
-                choice:
-                  "Pemikiran Hatta tidak berpengaruh signifikan dalam pembangunan ekonomi dan politik Indonesia.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Pemikiran Hatta tentang ekonomi kerakyatan dan demokrasi berpengaruh dalam kebijakan pembangunan ekonomi dan politik Indonesia.",
-                is_correct: true,
-              },
-              {
-                choice:
-                  "Pemikiran Hatta tentang komunisme dan sosialisme berpengaruh dalam kebijakan pembangunan ekonomi dan politik Indonesia.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Pemikiran Hatta tentang liberalisme dan kapitalisme berpengaruh dalam kebijakan pembangunan ekonomi dan politik Indonesia.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Pemikiran Hatta tentang agama dan spiritualitas berpengaruh dalam kebijakan pembangunan ekonomi dan politik Indonesia.",
-                is_correct: false,
-              },
-            ],
-          },
-          {
-            question:
-              "Bagaimana pengakuan atas jasa-jasa Mohammad Hatta dalam perjuangan kemerdekaan Indonesia?",
-            multiple_choices: [
-              {
-                choice: "Jasa-jasa Hatta tidak diakui oleh bangsa Indonesia.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Jasa-jasa Hatta diakui sebagai salah satu Proklamator Kemerdekaan Indonesia.",
-                is_correct: true,
-              },
-              {
-                choice: "Jasa-jasa Hatta hanya diakui oleh kalangan tertentu.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Jasa-jasa Hatta tidak mendapat pengakuan resmi dari pemerintah.",
-                is_correct: false,
-              },
-              {
-                choice:
-                  "Jasa-jasa Hatta hanya diakui dalam bentuk penghargaan informal.",
-                is_correct: false,
-              },
-            ],
-          },
-        ],
-        message: "",
-        time_taken_in_seconds: 0,
-        training_id: "485",
-        training_detail_id: "3279",
-        training_uuid: "4c58b11d-2722-422b-96f4-a6aa3089a02c",
-        training_detail_uuid: "1ad16fe7-0ff2-41f5-9fa5-ec4fc0bb587b",
-      },
-      message: "Finish",
-      time_taken_in_seconds: 33.99292,
-    },
-  };
-  return (
-    <div className="container size-full min-h-screen flex items-center justify-center">
-      <div className="w-full lg:w-[880px] flex flex-col gap-5 ">
-        <h1 className="font-bold text-2xl">{contentData.data.training_detail_data.training_detail_title}</h1>
-        
-      </div>
-    </div>
-  );
+            "message": "",
+            "time_taken_in_seconds": 0,
+            "training_id": "485",
+            "training_detail_id": "3279",
+            "training_uuid": "4c58b11d-2722-422b-96f4-a6aa3089a02c",
+            "training_detail_uuid": "1ad16fe7-0ff2-41f5-9fa5-ec4fc0bb587b"
+        },
+        "message": "Finish",
+        "time_taken_in_seconds": 33.99292
+    }
 }
