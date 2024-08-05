@@ -1,1 +1,34 @@
-
+{
+    "statusCode": 200,
+    "message": "OK",
+    "fulfilled": 1,
+    "data": {
+        "generate_id": "queue/a0c4b6a9-fe42-43f2-9656-4ba7554cca20/1722827512248/b67ccd9b-bbfc-4c79-9a69-2bf0a8dfd6ae",
+        "progress_status": "assessment_finish",
+        "assessment_detail_data": {
+            "assessment_detail_title": "Predictive Analytics for Telecom Churn: Data Mining Techniques \n",
+            "assessment_detail_content_type": "attachment_bundle_xls",
+            "assessment_detail_content_attachment_bundle_type": "xls",
+            "assessment_detail_content_attachment_bundle": [
+                {
+                    "question": "## Question 1: Data Preparation and Feature Engineering (Difficulty: 3)\n\n**Scenario:** A telecommunications company has provided you with a dataset containing customer information and their churn status. Your task is to prepare the data for churn prediction modeling.\n\n**Dataset:**\n\n| Customer ID | Age | Gender | Contract Type | Monthly Charges | Total Charges | Churn | \n|---|---|---|---|---|---|---| \n| 1 | 35 | Male | Month-to-month | 65.00 | 1872.20 | Yes | \n| 2 | 28 | Female | One year | 55.00 | 1560.00 | No | \n| 3 | 52 | Male | Two year | 75.00 | 2250.00 | No | \n| 4 | 41 | Female | Month-to-month | 90.00 | 2700.00 | Yes | \n| 5 | 30 | Male | One year | 60.00 | 1800.00 | No | \n\n**Instructions:**\n\n1. **Import the data into Excel.**\n2. **Handle missing values:** Replace missing values in the 'Total Charges' column with the average total charges for the respective contract type. \n3. **Create a new column called 'Tenure'**: Calculate the tenure (in months) by dividing 'Total Charges' by 'Monthly Charges'. \n4. **Convert categorical variables:** Transform the 'Contract Type' and 'Gender' columns into numerical values using dummy variables. \n5. **Export the prepared data to a new sheet named 'Prepared Data'.**\n\n**Expected Output:**\n\n| Customer ID | Age | Gender_Male | Gender_Female | Contract_Month-to-month | Contract_One year | Contract_Two year | Monthly Charges | Total Charges | Tenure | Churn | \n|---|---|---|---|---|---|---|---|---|---|---| \n| 1 | 35 | 1 | 0 | 1 | 0 | 0 | 65.00 | 1872.20 | 28.80 | Yes | \n| 2 | 28 | 0 | 1 | 0 | 1 | 0 | 55.00 | 1560.00 | 28.36 | No | \n| 3 | 52 | 1 | 0 | 0 | 0 | 1 | 75.00 | 2250.00 | 30.00 | No | \n| 4 | 41 | 0 | 1 | 1 | 0 | 0 | 90.00 | 2700.00 | 30.00 | Yes | \n| 5 | 30 | 1 | 0 | 0 | 1 | 0 | 60.00 | 1800.00 | 30.00 | No | ",
+                    "difficulty": ""
+                },
+                {
+                    "question": "## Question 2: Exploratory Data Analysis (Difficulty: 5)\n\n**Scenario:** You have the prepared data from Question 1. Perform exploratory data analysis to gain insights into customer churn behavior.\n\n**Instructions:**\n\n1. **Create a pivot table:** Analyze churn rates by 'Contract Type' and 'Gender'. \n2. **Create a histogram:** Visualize the distribution of 'Monthly Charges' for churned and non-churned customers. \n3. **Create a scatter plot:** Examine the relationship between 'Tenure' and 'Monthly Charges', color-coding points based on churn status. \n4. **Interpret your findings:** Based on the visualizations, identify potential factors contributing to churn. \n\n**Expected Output:**\n\n* **Pivot Table:** A table showing churn rates for different contract types and genders.\n* **Histogram:** Two histograms, one for churned customers and one for non-churned customers, showing the distribution of monthly charges.\n* **Scatter Plot:** A scatter plot showing the relationship between tenure and monthly charges, with churned customers marked differently.\n* **Insights:** A brief summary of your observations from the visualizations, highlighting potential factors influencing churn.",
+                    "difficulty": ""
+                },
+                {
+                    "question": "## Question 3: Building a Churn Prediction Model (Difficulty: 7)\n\n**Scenario:** You have the prepared data from Question 1. Use Excel's built-in data mining tools to build a churn prediction model.\n\n**Instructions:**\n\n1. **Create a Data Mining Model:** Use the 'Data Mining' add-in to create a decision tree model to predict churn. Select 'Churn' as the target variable and include all other variables as input variables. \n2. **Train and Validate the Model:** Split the data into training and validation sets (e.g., 70% training, 30% validation). Train the model on the training set and evaluate its performance on the validation set. \n3. **Analyze Model Performance:** Examine the model's accuracy, precision, recall, and F1-score. Identify the most important features contributing to churn prediction. \n\n**Expected Output:**\n\n* **Decision Tree Model:** A visual representation of the decision tree model. \n* **Performance Metrics:** A table displaying the model's accuracy, precision, recall, and F1-score on the validation set. \n* **Feature Importance:** A list of the most important features contributing to churn prediction, ranked by their importance scores.",
+                    "difficulty": ""
+                }
+            ],
+            "message": "",
+            "time_taken_in_seconds": 0,
+            "assessment_uuid": "b67ccd9b-bbfc-4c79-9a69-2bf0a8dfd6ae",
+            "assessment_detail_uuid": "19db806a-76d3-49da-852d-8498cd01cdd0"
+        },
+        "message": "Finish",
+        "time_taken_in_seconds": 15.377287
+    }
+}
