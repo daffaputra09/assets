@@ -3,82 +3,73 @@
     "message": "OK",
     "fulfilled": 1,
     "data": {
-        "generate_id": "queue/b24ee361-98f9-4a86-8918-4410c8f3a57d/1722475073376/db400b2c-79e9-4435-bffd-8fe8eaf6a7b7",
-        "progress_status": "thumbnail_finish",
-        "training_data": {
-            "training_id": "489",
-            "training_uuid": "db400b2c-79e9-4435-bffd-8fe8eaf6a7b7",
-            "training_title": "Menguasai HTML dan CSS: Dari Dasar hingga Mahir",
-            "training_image": "https://storage.googleapis.com/sarana-course-thumbnail/thumbnail-8f956556-f76e-4aa0-abcb-ff87f65145b6-db400b2c-79e9-4435-bffd-8fe8eaf6a7b7.webp",
-            "training_description": "Pelajari dasar-dasar HTML dan CSS, serta teknik lanjutan untuk membangun website yang menarik dan responsif.",
-            "training_detail_data": [
+        "generate_id": "queue/a0c4b6a9-fe42-43f2-9656-4ba7554cca20/1722822413560/8b31354a-cdcc-424b-a01b-b013d18956a3",
+        "progress_status": "skeleton_finish",
+        "assessment_data": {
+            "assessment_uuid": "8b31354a-cdcc-424b-a01b-b013d18956a3",
+            "assessment_detail_data": [
                 {
-                    "training_detail_title": "Mengenal HTML: Fondasi Website",
-                    "training_detail_content_type": "markdown",
-                    "training_detail_content": null,
-                    "training_detail_content_exam": null,
-                    "progress_status": "chapter_finish",
-                    "message": "Finish",
-                    "time_taken_in_seconds": 36.937607,
-                    "training_id": "489",
-                    "training_detail_id": "3305",
-                    "training_uuid": "db400b2c-79e9-4435-bffd-8fe8eaf6a7b7",
-                    "training_detail_uuid": "1a6f7873-a052-4812-aee8-74109ef2cfe5"
+                    "assessment_detail_title": "Thisss iss titleee",
+                    "assessment_detail_content_type": "multiple_choices",
+                    "assessment_detail_content_essay": null,
+                    "assessment_detail_content_multiple_choice": null,
+                    "assessment_detail_content_attachment_bundle": null,
+                    "progress_status": "assessment_finish",
+                    "message": "Assessment generated : Finish",
+                    "time_taken_in_seconds": 0,
+                    "assessment_uuid": "8b31354a-cdcc-424b-a01b-b013d18956a3",
+                    "assessment_detail_uuid": "ca7aa445-b706-4a97-baff-649365d95a51"
                 },
                 {
-                    "training_detail_title": "Membuat Tabel dengan HTML",
-                    "training_detail_content_type": "markdown",
-                    "training_detail_content": null,
-                    "training_detail_content_exam": null,
-                    "progress_status": "chapter_finish",
-                    "message": "Finish",
-                    "time_taken_in_seconds": 23.388739,
-                    "training_id": "489",
-                    "training_detail_id": "3306",
-                    "training_uuid": "db400b2c-79e9-4435-bffd-8fe8eaf6a7b7",
-                    "training_detail_uuid": "f9f38b26-4215-42e7-a3bd-9db6424ca22d"
+                    "assessment_detail_title": "Thisss iss titleee",
+                    "assessment_detail_content_type": "multiple_choices",
+                    "assessment_detail_content_essay": null,
+                    "assessment_detail_content_multiple_choice": null,
+                    "assessment_detail_content_attachment_bundle": null,
+                    "progress_status": "assessment_finish",
+                    "message": "Assessment generated : Finish",
+                    "time_taken_in_seconds": 0,
+                    "assessment_uuid": "8b31354a-cdcc-424b-a01b-b013d18956a3",
+                    "assessment_detail_uuid": "98027cfb-a801-445e-998f-b245e67e7d8d"
                 },
                 {
-                    "training_detail_title": "Mengenal CSS: Seni Mendesain Website",
-                    "training_detail_content_type": "markdown",
-                    "training_detail_content": null,
-                    "training_detail_content_exam": null,
-                    "progress_status": "chapter_finish",
-                    "message": "Finish",
-                    "time_taken_in_seconds": 22.28372,
-                    "training_id": "489",
-                    "training_detail_id": "3307",
-                    "training_uuid": "db400b2c-79e9-4435-bffd-8fe8eaf6a7b7",
-                    "training_detail_uuid": "b5a0e3d4-e4a5-4828-8ce9-220db45889d1"
+                    "assessment_detail_title": "Thisss iss titleee",
+                    "assessment_detail_content_type": "attachment_bundle_xls",
+                    "assessment_detail_content_essay": null,
+                    "assessment_detail_content_multiple_choice": null,
+                    "assessment_detail_content_attachment_bundle": null,
+                    "progress_status": "assessment_finish",
+                    "message": "Assessment generated : Finish",
+                    "time_taken_in_seconds": 0,
+                    "assessment_uuid": "8b31354a-cdcc-424b-a01b-b013d18956a3",
+                    "assessment_detail_uuid": "9dea3723-b81f-44c2-b01d-506485453b05"
                 },
                 {
-                    "training_detail_title": "Menguasai Posisi Elemen dengan CSS",
-                    "training_detail_content_type": "markdown",
-                    "training_detail_content": null,
-                    "training_detail_content_exam": null,
-                    "progress_status": "chapter_finish",
-                    "message": "Finish",
-                    "time_taken_in_seconds": 27.102156,
-                    "training_id": "489",
-                    "training_detail_id": "3308",
-                    "training_uuid": "db400b2c-79e9-4435-bffd-8fe8eaf6a7b7",
-                    "training_detail_uuid": "f91aa9b8-a09d-4b11-b314-105902f930f8"
+                    "assessment_detail_title": "Thisss iss titleee",
+                    "assessment_detail_content_type": "attachment_bundle_ppt",
+                    "assessment_detail_content_essay": null,
+                    "assessment_detail_content_multiple_choice": null,
+                    "assessment_detail_content_attachment_bundle": null,
+                    "progress_status": "assessment_finish",
+                    "message": "Assessment generated : Finish",
+                    "time_taken_in_seconds": 0,
+                    "assessment_uuid": "8b31354a-cdcc-424b-a01b-b013d18956a3",
+                    "assessment_detail_uuid": "a623d995-ae74-46a3-a452-755f3678a53b"
                 },
                 {
-                    "training_detail_title": "Uji Pemahaman HTML dan CSS",
-                    "training_detail_content_type": "exam",
-                    "training_detail_content": null,
-                    "training_detail_content_exam": null,
-                    "progress_status": "chapter_finish",
-                    "message": "Finish",
-                    "time_taken_in_seconds": 25.190035,
-                    "training_id": "489",
-                    "training_detail_id": "3309",
-                    "training_uuid": "db400b2c-79e9-4435-bffd-8fe8eaf6a7b7",
-                    "training_detail_uuid": "1227dc02-7b8f-41ec-9d57-d15d518e09b6"
+                    "assessment_detail_title": "Thisss iss titleee",
+                    "assessment_detail_content_type": "essay",
+                    "assessment_detail_content_essay": null,
+                    "assessment_detail_content_multiple_choice": null,
+                    "assessment_detail_content_attachment_bundle": null,
+                    "progress_status": "assessment_finish",
+                    "message": "Assessment generated : Finish",
+                    "time_taken_in_seconds": 0,
+                    "assessment_uuid": "8b31354a-cdcc-424b-a01b-b013d18956a3",
+                    "assessment_detail_uuid": "e579c217-8eba-4b6d-aec5-9efd5413188d"
                 }
             ]
         },
-        "message": "Finish"
+        "message": "Skeleton Complete"
     }
 }
