@@ -3,272 +3,42 @@
     "message": "OK",
     "fulfilled": 1,
     "data": {
-        "generate_id": "queue/b24ee361-98f9-4a86-8918-4410c8f3a57d/1722475073376/db400b2c-79e9-4435-bffd-8fe8eaf6a7b7",
-        "progress_status": "chapter_finish",
-        "training_detail_data": {
-            "training_detail_title": "Uji Pemahaman HTML dan CSS",
-            "training_detail_content_type": "exam",
-            "training_detail_content": null,
-            "training_detail_content_exam": [
+        "generate_id": "queue/a0c4b6a9-fe42-43f2-9656-4ba7554cca20/1722822413560/8b31354a-cdcc-424b-a01b-b013d18956a3",
+        "progress_status": "assessment_finish",
+        "assessment_detail_data": {
+            "assessment_detail_title": "Thisss iss titleee",
+            "assessment_detail_content_type": "multiple_choices",
+            "assessment_detail_content_essay": null,
+            "assessment_detail_content_multiple_choice": [
                 {
-                    "question": "Apa yang dimaksud dengan HTML?",
+                    "question": "Apa yang dimaksud dengan UI Design?",
                     "multiple_choices": [
                         {
-                            "choice": "Bahasa pemrograman untuk membuat aplikasi web.",
+                            "choice": "Seni merancang pengalaman pengguna secara keseluruhan dalam sebuah produk digital.",
                             "is_correct": false
                         },
                         {
-                            "choice": "Bahasa pemrograman untuk membuat database.",
+                            "choice": "Fondasi dan struktur yang membentuk tata letak dan fungsionalitas produk digital.",
                             "is_correct": false
                         },
                         {
-                            "choice": "Bahasa markup untuk membuat halaman web.",
+                            "choice": "Seni merancang antarmuka pengguna yang menarik dan estetis dalam produk digital.",
                             "is_correct": true
                         },
                         {
-                            "choice": "Bahasa pemrograman untuk membuat desain web.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Bahasa pemrograman untuk membuat animasi web.",
-                            "is_correct": false
-                        }
-                    ]
-                },
-                {
-                    "question": "Apa fungsi utama dari tag `\u003ctable\u003e` dalam HTML?",
-                    "multiple_choices": [
-                        {
-                            "choice": "Membuat teks menjadi tebal.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Membuat judul halaman web.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Membuat tabel dengan baris dan kolom.",
-                            "is_correct": true
-                        },
-                        {
-                            "choice": "Membuat gambar pada halaman web.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Membuat link ke halaman web lain.",
-                            "is_correct": false
-                        }
-                    ]
-                },
-                {
-                    "question": "Apa yang dimaksud dengan CSS?",
-                    "multiple_choices": [
-                        {
-                            "choice": "Bahasa pemrograman untuk membuat animasi web.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Bahasa pemrograman untuk membuat database.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Bahasa markup untuk membuat halaman web.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Bahasa pemrograman untuk membuat desain web.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Bahasa stylesheet untuk mengatur tampilan halaman web.",
-                            "is_correct": true
-                        }
-                    ]
-                },
-                {
-                    "question": "Apa fungsi utama dari CSS?",
-                    "multiple_choices": [
-                        {
-                            "choice": "Membuat struktur dasar halaman web.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Menambahkan interaktivitas pada halaman web.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Mengatur tampilan dan gaya halaman web.",
-                            "is_correct": true
-                        },
-                        {
-                            "choice": "Membuat konten dinamis pada halaman web.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Membuat efek transisi pada halaman web.",
-                            "is_correct": false
-                        }
-                    ]
-                },
-                {
-                    "question": "Bagaimana cara menghubungkan CSS dengan HTML?",
-                    "multiple_choices": [
-                        {
-                            "choice": "Dengan menggunakan tag `\u003clink\u003e` di dalam tag `\u003chead\u003e`.",
-                            "is_correct": true
-                        },
-                        {
-                            "choice": "Dengan menggunakan tag `\u003cstyle\u003e` di dalam tag `\u003cbody\u003e`.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Dengan menggunakan tag `\u003cscript\u003e` di dalam tag `\u003chead\u003e`.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Dengan menggunakan tag `\u003cdiv\u003e` di dalam tag `\u003cbody\u003e`.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Dengan menggunakan tag `\u003cspan\u003e` di dalam tag `\u003cbody\u003e`.",
-                            "is_correct": false
-                        }
-                    ]
-                },
-                {
-                    "question": "Apa yang dimaksud dengan selector CSS?",
-                    "multiple_choices": [
-                        {
-                            "choice": "Atribut yang digunakan untuk mengatur warna teks.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Atribut yang digunakan untuk mengatur ukuran font.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Atribut yang digunakan untuk memilih elemen HTML yang ingin diubah.",
-                            "is_correct": true
-                        },
-                        {
-                            "choice": "Atribut yang digunakan untuk mengatur posisi elemen HTML.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Atribut yang digunakan untuk mengatur margin elemen HTML.",
-                            "is_correct": false
-                        }
-                    ]
-                },
-                {
-                    "question": "Apa yang dimaksud dengan properti CSS?",
-                    "multiple_choices": [
-                        {
-                            "choice": "Atribut yang digunakan untuk memilih elemen HTML yang ingin diubah.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Atribut yang digunakan untuk mengatur nilai dari suatu elemen HTML.",
-                            "is_correct": true
-                        },
-                        {
-                            "choice": "Atribut yang digunakan untuk mengatur posisi elemen HTML.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Atribut yang digunakan untuk mengatur margin elemen HTML.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Atribut yang digunakan untuk mengatur padding elemen HTML.",
-                            "is_correct": false
-                        }
-                    ]
-                },
-                {
-                    "question": "Apa yang dimaksud dengan nilai CSS?",
-                    "multiple_choices": [
-                        {
-                            "choice": "Atribut yang digunakan untuk memilih elemen HTML yang ingin diubah.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Atribut yang digunakan untuk mengatur nilai dari suatu elemen HTML.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Atribut yang digunakan untuk mengatur posisi elemen HTML.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Atribut yang digunakan untuk mengatur margin elemen HTML.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Atribut yang digunakan untuk menentukan nilai dari suatu properti CSS.",
-                            "is_correct": true
-                        }
-                    ]
-                },
-                {
-                    "question": "Apa yang dimaksud dengan posisi static dalam CSS?",
-                    "multiple_choices": [
-                        {
-                            "choice": "Posisi elemen HTML yang dapat diubah dengan menggunakan properti `position`.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Posisi elemen HTML yang tidak dapat diubah dengan menggunakan properti `position`.",
-                            "is_correct": true
-                        },
-                        {
-                            "choice": "Posisi elemen HTML yang diposisikan relatif terhadap elemen induknya.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Posisi elemen HTML yang diposisikan relatif terhadap jendela browser.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Posisi elemen HTML yang diposisikan absolut terhadap elemen induknya.",
-                            "is_correct": false
-                        }
-                    ]
-                },
-                {
-                    "question": "Apa yang dimaksud dengan properti `position` dalam CSS?",
-                    "multiple_choices": [
-                        {
-                            "choice": "Properti yang digunakan untuk mengatur warna teks.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Properti yang digunakan untuk mengatur ukuran font.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Properti yang digunakan untuk mengatur posisi elemen HTML.",
-                            "is_correct": true
-                        },
-                        {
-                            "choice": "Properti yang digunakan untuk mengatur margin elemen HTML.",
-                            "is_correct": false
-                        },
-                        {
-                            "choice": "Properti yang digunakan untuk mengatur padding elemen HTML.",
+                            "choice": "Proses menguji dan meningkatkan kegunaan dan kepuasan pengguna terhadap produk digital.",
                             "is_correct": false
                         }
                     ]
                 }
             ],
+            "assessment_detail_content_attachment_bundle": null,
             "message": "",
             "time_taken_in_seconds": 0,
-            "training_id": "489",
-            "training_detail_id": "3309",
-            "training_uuid": "db400b2c-79e9-4435-bffd-8fe8eaf6a7b7",
-            "training_detail_uuid": "1227dc02-7b8f-41ec-9d57-d15d518e09b6"
+            "assessment_uuid": "8b31354a-cdcc-424b-a01b-b013d18956a3",
+            "assessment_detail_uuid": "ca7aa445-b706-4a97-baff-649365d95a51"
         },
-        "message": "Finish",
-        "time_taken_in_seconds": 25.190035
+        "message": "Assessment generated : Finish",
+        "time_taken_in_seconds": 0
     }
 }
