@@ -1,0 +1,35 @@
+{
+    "statusCode": 200,
+    "message": "OK",
+    "fulfilled": 1,
+    "data": {
+        "generate_id": "queue/61774f30-e0f8-42e9-af4c-52d465edc683/1722910620356/8d9411b9-0656-4d6f-957d-807f2dc43e0c",
+        "progress_status": "assessment_finish",
+        "assessment_detail_data": {
+            "assessment_detail_title": "Thisss iss titleee",
+            "assessment_detail_content_type": "essay",
+            "assessment_detail_content_essay": [
+                {
+                    "question": "Apa yang dimaksud dengan UI Design?",
+                    "difficulty": ""
+                },
+                {
+                    "question": "Apa yang dimaksud dengan UI Design?",
+                    "difficulty": ""
+                },
+                {
+                    "question": "Apa yang dimaksud dengan UI Design?",
+                    "difficulty": ""
+                }
+            ],
+            "assessment_detail_content_multiple_choice": null,
+            "assessment_detail_content_attachment_bundle": null,
+            "message": "",
+            "time_taken_in_seconds": 0,
+            "assessment_uuid": "8d9411b9-0656-4d6f-957d-807f2dc43e0c",
+            "assessment_detail_uuid": "531d2a35-ac92-4ff8-93df-3d576a458ffd"
+        },
+        "message": "Assessment generated : Finish",
+        "time_taken_in_seconds": 0
+    }
+}
