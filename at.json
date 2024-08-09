@@ -7,7 +7,7 @@
         "progress_status": "assessment_finish",
         "assessment_detail_data": {
             "assessment_detail_title": "Thisss iss titleee",
-            "assessment_detail_content_type": "attachment_bundle_xls",
+            "assessment_detail_content_type": "attachment_bundle_video",
             "assessment_detail_content_essay": null,
             "assessment_detail_content_multiple_choice": null,
             "assessment_detail_content_attachment_bundle": [
