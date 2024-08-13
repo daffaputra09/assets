@@ -1,0 +1,459 @@
+{
+    "search_result": {
+        "results": [
+            {
+                "id": "73b7d6b731ec905471f325400b0340d5",
+                "document": {
+                    "name": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/73b7d6b731ec905471f325400b0340d5",
+                    "id": "73b7d6b731ec905471f325400b0340d5",
+                    "derivedStructData": {
+                        "link": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/Keterbukaan Informasi Atas Rencana Penambahan Kegiatan Usaha Penunjang Perseroan-2022.pdf",
+                        "title": "Keterbukaan Informasi Atas Rencana Penambahan Kegiatan Usaha Penunjang Perseroan-2022",
+                        "snippets": [
+                            {
+                                "snippet_status": "SUCCESS",
+                                "snippet": "14 Dengan adanya penambahan kegiatan usaha penunjang, Perseroan akan memperoleh pendapatan sebesar Rp420 juta <b>pada tahun 2022</b>, dan akan meningkat menjadi&nbsp;..."
+                            }
+                        ],
+                        "extractive_answers": [
+                            {
+                                "content": "<b>Pada</b> posisi keuangan, dengan adanya penambahan kegiatan usaha penunjang, Perseroan akan memperoleh tambahan aset sebesar Rp8,11 miliar <b>pada tahun 2022</b> menjadi sebesar Rp108,755 miliar di <b>tahun</b> 2031.",
+                                "pageNumber": "14"
+                            }
+                        ],
+                        "entity_type": "gcs_store",
+                        "source_type": "gcs"
+                    }
+                }
+            },
+            {
+                "id": "d7e6e910a97dc79e1837336a7ec54fb5",
+                "document": {
+                    "name": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/d7e6e910a97dc79e1837336a7ec54fb5",
+                    "id": "d7e6e910a97dc79e1837336a7ec54fb5",
+                    "derivedStructData": {
+                        "entity_type": "gcs_store",
+                        "link": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/DCII Annual and Sustainability Report 2022.pdf",
+                        "title": "DCII Annual and Sustainability Report 2022",
+                        "extractive_answers": [
+                            {
+                                "pageNumber": "38",
+                                "content": "Secara kuantitatif, Dewan Komisaris memandang Direksi telah melakukan upaya terbaik untuk Perseroan. Sehingga Perseroan dapat menutup <b>tahun 2022</b> dengan pertumbuhan finansial yang positif meskipun menghadapi tantangan pasar yang telah disebutkan diatas."
+                            }
+                        ],
+                        "snippets": [
+                            {
+                                "snippet": "Perseroan juga mencatat <b>kinerja</b> finansial yang positif <b>pada tahun 2022</b> ... <b>2022</b> 38 Ikhtisar <b>Kinerja Performance</b> Highlights Profil <b>Perusahaan</b> Company&nbsp;...",
+                                "snippet_status": "SUCCESS"
+                            }
+                        ],
+                        "source_type": "gcs"
+                    }
+                }
+            },
+            {
+                "id": "1669b9dc77efda160e13bd5bad3022f9",
+                "document": {
+                    "name": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/1669b9dc77efda160e13bd5bad3022f9",
+                    "id": "1669b9dc77efda160e13bd5bad3022f9",
+                    "derivedStructData": {
+                        "entity_type": "gcs_store",
+                        "link": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/DCII Annual & Sustainability Report 2023.pdf",
+                        "source_type": "gcs",
+                        "snippets": [
+                            {
+                                "snippet": "... <b>tahun</b> 2023, Grup ... Selain peningkatan dari sisi <b>kinerja</b> operasional, Grup juga berupaya untuk ... Sedangkan, <b>pada tahun 2022</b> Perseroan mencatat&nbsp;...",
+                                "snippet_status": "SUCCESS"
+                            }
+                        ],
+                        "title": "DCII Annual & Sustainability Report 2023",
+                        "extractive_answers": [
+                            {
+                                "pageNumber": "136",
+                                "content": "Sedangkan, <b>pada tahun 2022</b> Perseroan mencatat kerugian pengukuran kembali atas penyisihan imbalan kerja karyawan setelah pajak sebesar Rp300 juta dan perubahan atas nilai wajar tanah sebesar Rp2,701 juta."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": "8ec017625dea0b834b8ee1c8ac8ac520",
+                "document": {
+                    "name": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/8ec017625dea0b834b8ee1c8ac8ac520",
+                    "id": "8ec017625dea0b834b8ee1c8ac8ac520",
+                    "derivedStructData": {
+                        "title": "Annual Report 2021",
+                        "source_type": "gcs",
+                        "link": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/Annual Report 2021.pdf",
+                        "entity_type": "gcs_store",
+                        "snippets": [
+                            {
+                                "snippet_status": "SUCCESS",
+                                "snippet": "... di lahan <b>Perusahaan</b> ... <b>tahun</b> 2021, Perseroan mampu mencapai target <b>kinerja</b> yang telah ditetapkan di awal <b>tahun</b>. ... di Indonesia <b>pada tahun 2022 pada</b> kisaran 4,7 -&nbsp;..."
+                            }
+                        ],
+                        "extractive_answers": [
+                            {
+                                "content": "Bank Indonesia memproyeksikan pertumbuhan ekonomi nasional di Indonesia <b>pada tahun 2022 pada</b> kisaran 4,7 - 5,5%, naik dari yang sebelumnya <b>pada tahun</b> 2021 <b>pada</b> kisaran 3,2-4,0%, didorong dengan perbaikan ekonomi global berkelanjutan yang disebabkan oleh solidnya <b>kinerja</b> ekspor dan juga meningkatnya permintaan domestik dalam hal konsumsi dan investasi.",
+                                "pageNumber": "77"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": "14c9059f82c7dcd90046f0f6bd3385ff",
+                "document": {
+                    "name": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/14c9059f82c7dcd90046f0f6bd3385ff",
+                    "id": "14c9059f82c7dcd90046f0f6bd3385ff",
+                    "derivedStructData": {
+                        "source_type": "gcs",
+                        "extractive_answers": [
+                            {
+                                "content": "Mulai <b>2022</b>, berdasarkan siaran pers, <b>Perusahaan</b> telah mengubah kebijakan akuntansinya untuk mengatribusikan imbalan berdasarkan program tersebut, yaitu dari tanggal ketika jasa pekerja pertama kali menghasilkan imbalan dalam program sampai dengan tanggal ketika jasa pekerja selanjutnya tidak akan menghasilkan jumlah imbalan yang material di bawah program tersebut.",
+                                "pageNumber": "37"
+                            }
+                        ],
+                        "entity_type": "gcs_store",
+                        "snippets": [
+                            {
+                                "snippet_status": "SUCCESS",
+                                "snippet": "<b>Pada tahun</b>-<b>tahun</b> sebelumnya, <b>Perusahaan</b> mengatribusikan ... <b>Perusahaan pada</b> tanggal 31 Desember <b>2022</b> dan untuk <b>tahun</b> yang berakhir <b>pada</b> tanggal tersebut."
+                            }
+                        ],
+                        "title": "Laporan Keuangan Per 31 Desember 2022",
+                        "link": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/Laporan Keuangan Per 31 Desember 2022.pdf"
+                    }
+                }
+            },
+            {
+                "id": "d7b6948bbbd5d3f6f83ba569bdb6153a",
+                "document": {
+                    "name": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/d7b6948bbbd5d3f6f83ba569bdb6153a",
+                    "id": "d7b6948bbbd5d3f6f83ba569bdb6153a",
+                    "derivedStructData": {
+                        "entity_type": "gcs_store",
+                        "title": "Laporan Keuangan 30 Juni 2023",
+                        "source_type": "gcs",
+                        "snippets": [
+                            {
+                                "snippet": "<b>Pada tahun</b>-<b>tahun</b> sebelumnya, <b>Perusahaan</b> mengatribusikan ... <b>Perusahaan pada</b> tanggal 31 Desember <b>2022</b> dan untuk <b>tahun</b> yang berakhir <b>pada</b> tanggal tersebut.",
+                                "snippet_status": "SUCCESS"
+                            }
+                        ],
+                        "extractive_answers": [
+                            {
+                                "content": "Mulai <b>2022</b>, berdasarkan siaran pers, <b>Perusahaan</b> telah mengubah kebijakan akuntansinya untuk mengatribusikan imbalan berdasarkan program tersebut, yaitu dari tanggal ketika jasa pekerja pertama kali menghasilkan imbalan dalam program sampai dengan tanggal ketika jasa pekerja selanjutnya tidak akan menghasilkan jumlah imbalan yang material di bawah program tersebut.",
+                                "pageNumber": "31"
+                            }
+                        ],
+                        "link": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/Laporan Keuangan 30 Juni 2023.pdf"
+                    }
+                }
+            },
+            {
+                "id": "ee85f775e16f8ff6508abfe095f05ccc",
+                "document": {
+                    "name": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/ee85f775e16f8ff6508abfe095f05ccc",
+                    "id": "ee85f775e16f8ff6508abfe095f05ccc",
+                    "derivedStructData": {
+                        "snippets": [
+                            {
+                                "snippet": "Mulai <b>tahun</b> buku yang berakhir <b>pada</b> tanggal 31 Desember <b>2022</b> dan seterusnya, Perseroan ... Perseroan; dan (vi) Mempertimbangkan <b>kinerja</b> Saham <b>pada</b> pasar sekunder.",
+                                "snippet_status": "SUCCESS"
+                            }
+                        ],
+                        "source_type": "gcs",
+                        "link": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/Prospektus Ringkas-2020.pdf",
+                        "title": "Prospektus Ringkas-2020",
+                        "entity_type": "gcs_store",
+                        "extractive_answers": [
+                            {
+                                "content": "Mulai <b>tahun</b> buku yang berakhir <b>pada</b> tanggal 31 Desember <b>2022</b> dan seterusnya, Perseroan berencana untuk membagikan dividen tunai secara kas atau dalam bentuk uang sebanyak-banyaknya 20% (dua puluh persen) dari laba bersih Perseroan dan kebijakan Perseroan dalam pembagian dividen tersebut akan diputuskan oleh para pemegang Saham dalam Rapat Umum Pemegang Saham Tahunan (RUPST) yang diadakan setiap <b>tahun</b>.",
+                                "pageNumber": "2"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": "7c1e9a4968067203d8694312ac296405",
+                "document": {
+                    "name": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/7c1e9a4968067203d8694312ac296405",
+                    "id": "7c1e9a4968067203d8694312ac296405",
+                    "derivedStructData": {
+                        "entity_type": "gcs_store",
+                        "title": "Annual Report 2020",
+                        "source_type": "gcs",
+                        "link": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/Annual Report 2020.pdf",
+                        "extractive_answers": [
+                            {
+                                "pageNumber": "20",
+                                "content": "Perbaikan berkesinambungan perlu dilanjutkan seiring dengan pengembangan kompetensi sumber daya manusia dan budaya kerja, terutama untuk cepat melihat dan menanggapi peluang untuk memberikan solusi terbaik bagi pelanggan dalam menghadapi tantangan bisnis <b>pada</b> dan pasca era pandemi Covid-19."
+                            }
+                        ],
+                        "snippets": [
+                            {
+                                "snippet_status": "SUCCESS",
+                                "snippet": "IKHTISAR <b>KINERJA</b> 2020 2020 <b>Performance</b> Highlights LAPORAN MANAJEMEN Management Reports PROFIL <b>PERUSAHAAN</b> Company ... <b>kinerja</b> Dewan Direksi <b>Perusahaan pada tahun</b>&nbsp;..."
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": "b4bb8a4d6326f23d32d89a87b04efde2",
+                "document": {
+                    "name": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/b4bb8a4d6326f23d32d89a87b04efde2",
+                    "id": "b4bb8a4d6326f23d32d89a87b04efde2",
+                    "derivedStructData": {
+                        "extractive_answers": [
+                            {
+                                "content": "Berdasarkan perjanjian pinjaman, Perseroan diwajibkan untuk memenuhi rasio keuangan sebagai berikut: - Rasio cakupan utang harus lebih dari 1,25 kali; dan - Rasio utang terhadap ekuitas tidak boleh lebih dari 3 kali <b>pada tahun</b> 2020 - <b>2022</b>, tidak boleh lebih dari 2,5 kali <b>pada tahun</b> 2023 - 2024 dan tidak boleh lebih dari 2 kali <b>pada tahun</b> 2025 sampai selanjutnya.",
+                                "pageNumber": "42"
+                            }
+                        ],
+                        "link": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/Prospektus Penawaran Umum Perdana Saham-2020.pdf",
+                        "entity_type": "gcs_store",
+                        "source_type": "gcs",
+                        "title": "Prospektus Penawaran Umum Perdana Saham-2020",
+                        "snippets": [
+                            {
+                                "snippet": "... <b>pada tahun</b> 2020 - <b>2022</b>, tidak boleh lebih dari 2,5 kali <b>pada tahun</b> 2023 - 2024 dan tidak boleh lebih dari 2 kali <b>pada tahun</b> 2025 sampai selanjutnya. 14&nbsp;...",
+                                "snippet_status": "SUCCESS"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": "7726cf09a8a874298c5df52588ab0a85",
+                "document": {
+                    "name": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/7726cf09a8a874298c5df52588ab0a85",
+                    "id": "7726cf09a8a874298c5df52588ab0a85",
+                    "derivedStructData": {
+                        "entity_type": "gcs_store",
+                        "extractive_answers": [
+                            {
+                                "pageNumber": "2",
+                                "content": "Mekanisme Pengambilan Keputusan Musyawarah mufakat Hasil Pemungutan Suara Setuju Abstain Tidak Setuju 2.252.562.100 - - Keputusan Rapat 1. Menyetujui Laporan Tahunan Perseroan <b>Tahun 2022</b> termasuk di dalamnya laporan tugas pengawasan Dewan Komisaris untuk <b>tahun</b> buku <b>2022</b>. 2."
+                            }
+                        ],
+                        "title": "[draft iklan tayang 3 Maret 2015]",
+                        "snippets": [
+                            {
+                                "snippet_status": "SUCCESS",
+                                "snippet": "Mengesahkan Laporan Keuangan Perseroan untuk <b>tahun</b> buku yang berakhir <b>pada</b> tanggal 31 Desember <b>2022</b> yang telah diaudit oleh Kantor Akuntan Publik Purwantono&nbsp;..."
+                            }
+                        ],
+                        "link": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/Ringkasan Risalah RUPS Tahunan PT DCI Indonesia Tbk 2023.pdf",
+                        "source_type": "gcs"
+                    }
+                }
+            }
+        ],
+        "totalSize": 2208,
+        "attributionToken": "rgHwrQoLCLfZ67UGEPGZyR0SJDY2YjVkZDRlLTAwMDAtMjI0Ny1iN2ZmLTI0MDU4ODgyNWNjNCIHR0VORVJJQypw1LKdFcXL8xejgJciwvCeFd6PmiLn7YgttbeMLeiCsS2gibMtgLKaIuTtiC359rMtrfizLZbeqC_89rMtq8SKLZneqC_R5rUvg7KaIqOJsy3rgrEtm9a3Lc7mtS-Ovp0V24-aIq7Eii2q-LMtmNa3LQ",
+        "nextPageToken": "ANjNWNygDO4UDM0ITLmZ2Ni1yN0IjMtADMwATLkRDZkVjY2YDJa83lgzKEGU7-CfLCLIBMxIgC",
+        "guidedSearchResult": [],
+        "summary": [],
+        "sessionInfo": {
+            "name": "projects/652345969561/locations/global/collections/default_collection/engines/sarana-corporate-intellige_1723173775463/sessions/15733421349383333817",
+            "queryId": "projects/652345969561/locations/global/questions/15733421349383333434"
+        }
+    },
+    "answer_result": {
+        "answer": {
+            "name": "projects/652345969561/locations/global/collections/default_collection/engines/sarana-corporate-intellige_1723173775463/sessions/15733421349383333817/answers/3912168179269234149",
+            "state": "SUCCEEDED",
+            "answerText": "Perusahaan mencatat kinerja keuangan yang kuat pada tahun 2022 dibandingkan dengan tahun sebelumnya. Pendapatan tumbuh sebesar 20%, EBITDA naik sebesar 24%, dan laba bersih meningkat 41%. Kenaikan ini merupakan bukti nyata perusahaan dalam menjalankan strategi bisnisnya. Perusahaan juga berhasil mempertahankan 100% ketersediaan layanan operasional sepanjang tahun 2022. Total kapasitas pusat data yang tersedia hingga saat ini sebesar 64 MW. \n",
+            "citations": [
+                {
+                    "endIndex": "100",
+                    "sources": [
+                        {
+                            "referenceId": "1"
+                        }
+                    ]
+                },
+                {
+                    "startIndex": "101",
+                    "endIndex": "187",
+                    "sources": [
+                        {
+                            "referenceId": "1"
+                        }
+                    ]
+                },
+                {
+                    "startIndex": "188",
+                    "endIndex": "271",
+                    "sources": [
+                        {
+                            "referenceId": "1"
+                        }
+                    ]
+                },
+                {
+                    "startIndex": "272",
+                    "endIndex": "371",
+                    "sources": [
+                        {
+                            "referenceId": "2"
+                        }
+                    ]
+                },
+                {
+                    "startIndex": "372",
+                    "endIndex": "443",
+                    "sources": [
+                        {
+                            "referenceId": "2"
+                        }
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "chunkInfo": {
+                        "content": "Perseroan juga menerima beberapa penghargaan\ninternasional di tahun 2022. Hal ini merupakan bukti atas\nkomitmen Perseroan untuk memberikan layanan terbaik yang\njuga memenuhi prinsip-prinsip keberlanjutan, diantaranya: Penghargaan dari Frost & Sullivan sebagai Indonesia\nData Center Services of the Year 2022 Penghargaan dari APAC CIO Outlook 2022 sebagai Top\nDigital Infrastructure Solutions Provider 2022 Penghargaan dari W.Media sebagai Southeast Asia\nCloud and Data Center Hyperscale Innovation (Automasi) Penghargaan dari W.Media sebagai Southeast Asia\nCloud and Data Center Hyperscale Innovation (Carbon\nReduction) efficient linking across various services including content\nsuppliers, internet service providers, cloud service providers,\nand financial institutions In the fiscal year 2022, the Company demonstrated a superior\nfinancial performance as compared to the previous year. This is evidenced by a notable increase in revenue by 20%,\nEBITDA by 24%, and net income by 41%. These outcomes\nserve as a testament to the Company’s dedication towards\nsuccessfully implementing its business strategy. In the year 2022, the Company received significant global\nrecognition, which serves as a testament to its unwavering\ncommitment towards providing top-notch services in\nadherence to sustainability standards, including: Award from Frost & Sullivan as Indonesia Data Center\nServices of the Year 2022 Award from APAC CIO Outlook 2022 as Top Digital\nInfrastructure Solutions Provider 2022 Award from W.Media as Southeast Asia Cloud and Data\nCenter Hyperscale Innovation (Automation) ",
+                        "documentMetadata": {
+                            "document": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/d7e6e910a97dc79e1837336a7ec54fb5",
+                            "uri": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/DCII Annual and Sustainability Report 2022.pdf",
+                            "title": "DCII Annual and Sustainability Report 2022",
+                            "pageIdentifier": "79"
+                        }
+                    }
+                },
+                {
+                    "chunkInfo": {
+                        "content": "interkoneksi agar dapat terhubung antar layanan, baik dari\npenyedia konten, penyedia layanan internet, penyedia\nlayanan cloud, maupun institusi keuangan secara cepat,\naman, dan efisien. Dari sisi keuangan, Perseroan mencatatkan kinerja finansial\nyang kuat di tahun 2022 apabila dibandingkan dengan\ntahun sebelumnya. Pendapatan tumbuh sebesar 20%,\nEBITDA naik sebesar 24%, dan laba bersih meningkat\n41%. Hasil kinerja ini merupakan bukti nyata Perseroan\ndalam menjalankan strategi bisnis Perseroan. Perseroan juga menerima beberapa penghargaan\ninternasional di tahun 2022. Hal ini merupakan bukti atas\nkomitmen Perseroan untuk memberikan layanan terbaik yang\njuga memenuhi prinsip-prinsip keberlanjutan, diantaranya: Penghargaan dari Frost & Sullivan sebagai Indonesia\nData Center Services of the Year 2022 Penghargaan dari APAC CIO Outlook 2022 sebagai Top\nDigital Infrastructure Solutions Provider 2022 Penghargaan dari W.Media sebagai Southeast Asia\nCloud and Data Center Hyperscale Innovation (Automasi) Penghargaan dari W.Media sebagai Southeast Asia\nCloud and Data Center Hyperscale Innovation (Carbon\nReduction) efficient linking across various services including content\nsuppliers, internet service providers, cloud service providers,\nand financial institutions In the fiscal year 2022, the Company demonstrated a superior\nfinancial performance as compared to the previous year. This is evidenced by a notable increase in revenue by 20%,\nEBITDA by 24%, and net income by 41%. These outcomes\nserve as a testament to the Company’s dedication towards\nsuccessfully implementing its business strategy. ",
+                        "documentMetadata": {
+                            "document": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/d7e6e910a97dc79e1837336a7ec54fb5",
+                            "uri": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/DCII Annual and Sustainability Report 2022.pdf",
+                            "title": "DCII Annual and Sustainability Report 2022",
+                            "pageIdentifier": "79"
+                        }
+                    }
+                },
+                {
+                    "chunkInfo": {
+                        "content": "Performance for the business as a whole is expected to\nrise through 2022. The Company accomplished a remarkable feat: service\navailability was kept at a perfect 100% during the whole\nyear. Also, the company had a successful financial year\nin 2022, with sales increasing by 20%, EBITDA increasing\nby 24%, and net profit rising by 41% (these numbers were\nobtained from certified financial accounts). The entire amount of data center capacity that is now\naccessible through the DCI Platform expansion is 64\nMW. With this, the Company has managed to maintain\nits position as the market leader in the Indonesian data\ncenter service industry. This allows the Company to meet the requirements of\ndata centers in Indonesia while continuing to provide\nconsumers with high-quality service and improving its\nfinancial performance. Secara keseluruhan, kinerja Perseroan terus meningkat\nhingga tahun 2022. Perseroan berhasil mempertahankan 100% ketersediaan\nlayanan operasional. Perseroan juga mencatat kinerja finansial\nyang positif pada tahun 2022, diantaranya pendapatan\ntumbuh sebesar 20%, sementara EBITDA naik 24%, dan\nlaba bersih meningkat sebesar 41% (angka-angka ini\ndiambil dari laporan keuangan yang telah diaudit). Melalui ekspansi DCI Platform, total kapasitas pusat data\nyang tersedia hingga saat ini sebesar 64 MW. Dengan ini\nPerseroan dapat mempertahankan posisinya sebagai market\nleader dalam industri layanan pusat data di Indonesia.16 ",
+                        "documentMetadata": {
+                            "document": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/d7e6e910a97dc79e1837336a7ec54fb5",
+                            "uri": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/DCII Annual and Sustainability Report 2022.pdf",
+                            "title": "DCII Annual and Sustainability Report 2022",
+                            "pageIdentifier": "38"
+                        }
+                    }
+                },
+                {
+                    "chunkInfo": {
+                        "content": "The Company’s Earnings Before Interest, Taxes, Depreciation,\nand Amortisation (EBITDA) surged by 24%, from IDR 564.8\nbillion in the previous year to IDR 702.8 billion in 2022. The\nCompany’s strategic focus on investing in automation and\nartificial intelligence has yielded operational efficiency and\nbolstered profitability margins. Laba Bersih Net Profit Sepanjang tahun 2022, Perseroan membukukan laba tahun\nberjalan sebesar Rp 367,84 miliar, meningkat sebesar 41%. Selain peningkatan dari sisi kinerja operasional, Perseroan\njuga berupaya untuk menjaga biaya beban bunga dengan\nmelakukan evaluasi secara berkala terhadap proyeksi kas\ndengan keadaan aktual. The Company recorded a profit of IDR 367.84 billion in\n2022, marking a significant 41% increase from the previous\nyear. In addition to enhancing operational performance,\nthe Company endeavours to minimise interest expenses\nby conducting regular assessments of cash projections\nagainst actual conditions. Penghasilan Komprehensif lain Other Comprehensive Income\nPada tahun 2022, Perseroan membukukan penghasilan\nkomprehensif lain berupa kerugian pengukuran kembali\natas imbalan kerja karyawan setelah pajak sebesar Rp 300\njt dan perubahan atas nilai wajar tanah sebesar Rp 2,7\nmilyar. Sedangkan, pada tahun 2021 Perseroan mencatat\nkerugian pengukuran kembali atas penyisihan imbalan\nkerja karyawan setelah pajak sebesar Rp 1,48 milyar dan\nperubahan atas nilai wajar tanah sebesar Rp 84,89 milyar. ",
+                        "documentMetadata": {
+                            "document": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/d7e6e910a97dc79e1837336a7ec54fb5",
+                            "uri": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/DCII Annual and Sustainability Report 2022.pdf",
+                            "title": "DCII Annual and Sustainability Report 2022",
+                            "pageIdentifier": "82"
+                        }
+                    }
+                },
+                {
+                    "chunkInfo": {
+                        "content": "The Company’s Earnings Before Interest, Taxes, Depreciation,\nand Amortisation (EBITDA) surged by 24%, from IDR 564.8\nbillion in the previous year to IDR 702.8 billion in 2022. The\nCompany’s strategic focus on investing in automation and\nartificial intelligence has yielded operational efficiency and\nbolstered profitability margins. Laba Bersih Net Profit Sepanjang tahun 2022, Perseroan membukukan laba tahun\nberjalan sebesar Rp 367,84 miliar, meningkat sebesar 41%. Selain peningkatan dari sisi kinerja operasional, Perseroan\njuga berupaya untuk menjaga biaya beban bunga dengan\nmelakukan evaluasi secara berkala terhadap proyeksi kas\ndengan keadaan aktual. The Company recorded a profit of IDR 367.84 billion in\n2022, marking a significant 41% increase from the previous\nyear. In addition to enhancing operational performance,\nthe Company endeavours to minimise interest expenses\nby conducting regular assessments of cash projections\nagainst actual conditions. Penghasilan Komprehensif lain Other Comprehensive Income\nPada tahun 2022, Perseroan membukukan penghasilan\nkomprehensif lain berupa kerugian pengukuran kembali\natas imbalan kerja karyawan setelah pajak sebesar Rp 300\njt dan perubahan atas nilai wajar tanah sebesar Rp 2,7\nmilyar. Sedangkan, pada tahun 2021 Perseroan mencatat\nkerugian pengukuran kembali atas penyisihan imbalan\nkerja karyawan setelah pajak sebesar Rp 1,48 milyar dan\nperubahan atas nilai wajar tanah sebesar Rp 84,89 milyar. During the year 2022, the company documented a net gain\nthat was comprehensive in nature. ",
+                        "documentMetadata": {
+                            "document": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/d7e6e910a97dc79e1837336a7ec54fb5",
+                            "uri": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/DCII Annual and Sustainability Report 2022.pdf",
+                            "title": "DCII Annual and Sustainability Report 2022",
+                            "pageIdentifier": "82"
+                        }
+                    }
+                },
+                {
+                    "chunkInfo": {
+                        "content": "The direct marketing strategy is delivering services directly\nto prospective clients by participating in trade shows or\nconducting webinars and other technology-themed activities. On the other side, the company takes an indirect method\nwhen it acquires future consumers through referrals from\nits current clientele. To assist the Company’s expansion efforts in 2022, the\nDCI team implemented the following direct and indirect\nmarketing strategies: Organise collaboration events with customers Press-conference to launch cooperation events with\ncustomers Organise and attend webinar sessions to discuss data\ncenter technology and industry trends\nThe Significant Events part of this Annual Report contains\ninformation on activities. DCI’s marketing operations are managed from the company’s\nheadquarters in South Jakarta. The marketing department\nat DCI examines its marketing plan monthly. As a consequence of the DCI team’s marketing plan to\nsupport and promote the company, the DCI ecosystem\nis diversifying, with a 18% increase in new customers\ncompared to 2021. interkoneksi agar dapat terhubung antar layanan, baik dari\npenyedia konten, penyedia layanan internet, penyedia\nlayanan cloud, maupun institusi keuangan secara cepat,\naman, dan efisien. Dari sisi keuangan, Perseroan mencatatkan kinerja finansial\nyang kuat di tahun 2022 apabila dibandingkan dengan\ntahun sebelumnya. Pendapatan tumbuh sebesar 20%,\nEBITDA naik sebesar 24%, dan laba bersih meningkat\n41%. Hasil kinerja ini merupakan bukti nyata Perseroan\ndalam menjalankan strategi bisnis Perseroan. ",
+                        "documentMetadata": {
+                            "document": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/d7e6e910a97dc79e1837336a7ec54fb5",
+                            "uri": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/DCII Annual and Sustainability Report 2022.pdf",
+                            "title": "DCII Annual and Sustainability Report 2022",
+                            "pageIdentifier": "79"
+                        }
+                    }
+                },
+                {
+                    "chunkInfo": {
+                        "content": "Meanwhile\nin 2022, the Company recorded a remeasurement\nvalue on employee benefit obligations after tax of\nIDR 300 million and change in fair value of land of\nIDR2.701 million. The Group recorded a comprehensive profit for the year\nof IDR514.460 million, an increase of 39,0% from 2022 of\nIDR370.243 million. ",
+                        "documentMetadata": {
+                            "document": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/1669b9dc77efda160e13bd5bad3022f9",
+                            "uri": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/DCII Annual & Sustainability Report 2023.pdf",
+                            "title": "DCII Annual & Sustainability Report 2023",
+                            "pageIdentifier": "136"
+                        }
+                    }
+                },
+                {
+                    "chunkInfo": {
+                        "content": "The Company is dealing with a multitude of challenges both\nlocally and globally, according to the Board of Commissioners’\nobservations. The geopolitical environment and the influence\nof social restriction policies related to the Covid-19 epidemic,\nwhich are still in place in numerous countries, are only two\namong many elements that contribute to these issues. A further problem for the Company is the increased market\nrivalry brought on by the introduction of new data center\nproviders in Indonesia. The Company, however, was able\nto generate positive performance in 2022 due to its history\nof strong operational excellence and successful business\nstrategy implementation. Berdasarkan pengamatan Dewan Komisaris, Perseroan\nmenghadapi beberapa tantangan-tantangan baik dari sisi\nglobal maupun lokal. Tantangan-tantangan ini memiliki\nfaktor-faktor yang cukup beragam, dimulai dari situasi\ngeopolitik sampai dengan imbas kebijakan pembatasan\nsosial yang masih terjadi di beberapa negara sehubungan\ndengan pandemi Covid-19. Selain itu, masuknya pemain pusat data baru di Indonesia\nturut menciptakan persaingan pasar yang juga menjadi\ntantangan tersendiri bagi Perseroan. Namun, berkat rekam\njejak mutu operasional Perseroan yang berkualitas tinggi\ndan eksekusi strategi usaha yang baik Perseroan mampu\nmeraih kinerja yang positif di tahun 2022. Faktor-Faktor yang Mempengaruhi Kinerja Performance-Affecting Factors yang memiliki standar operasional terbaik dan juga atas\nkeberhasilannya dalam menjaga standar operasional\ntersebut. the highest operating requirements and for its success in\nupholding these standards. ",
+                        "documentMetadata": {
+                            "document": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/d7e6e910a97dc79e1837336a7ec54fb5",
+                            "uri": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/DCII Annual and Sustainability Report 2022.pdf",
+                            "title": "DCII Annual and Sustainability Report 2022",
+                            "pageIdentifier": "38"
+                        }
+                    }
+                },
+                {
+                    "chunkInfo": {
+                        "content": "Beban Pokok Pendapatan Cost of Revenue Di saat yang sama, beban pokok pendapatan (termasuk\ndepresiasi dan amortisasi) meningkat sebesar 12,4%\nmenjadi Rp 444,38 miliar. Peningkatan ini sejalan dengan\npertumbuhan pendapatan perseroan. Simultaneously, the cost of revenue, inclusive of depreciation\nand amortisation, escalated by 12.4% to IDR 444.38 billion,\naligning with the Company’s growth in revenue. Laba Bruto Gross Profit Perseroan berhasil mencatat pertumbuhan Laba Bruto\nsebesar 26%, dari Rp 476 miliar menjadi Rp 599,58 miliar\ndi tahun 2022. Pendapatan perseroan berhasil tumbuh lebih\ntinggi (+20%) dibandingkan dengan peningkatan beban\nPokok pendapatan (+12,4%), dan oleh sebab itu posisi\nmarjin laba bruto meningkat menjadi 57% di tahun 2022. The Company achieved a notable 26% growth in gross\nprofit, rising from IDR 476 billion to IDR 599.58 billion\nin 2022. The revenue growth rate (+20%) outpaced the\nincrease in cost of revenue (+12.4%), leading to a higher\ngross profit margin position of 57% in 2022. EBITDA EBITDA EBITDA Perseroan mencapai Rp 702,8 miliar, tumbuh\n24% sepanjang tahun 2022 dari Rp 564,8 miliar di tahun\nsebelumnya. Strategi Perseroan untuk terus melakukan\ninvestasi pada automation dan artificial intelligence\nmenghasilkan operasional efisiensi dan meningkatkan\nmarjin profitabilitas perseroan. ",
+                        "documentMetadata": {
+                            "document": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/d7e6e910a97dc79e1837336a7ec54fb5",
+                            "uri": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/DCII Annual and Sustainability Report 2022.pdf",
+                            "title": "DCII Annual and Sustainability Report 2022",
+                            "pageIdentifier": "82"
+                        }
+                    }
+                },
+                {
+                    "chunkInfo": {
+                        "content": "TATA KELOLA PERUSAHAAN\nGood Corporate Governance ANALISIS MANAJEMEN\nManagement Analysis PT DCI ANNUAL REPORT 2021 75 Capital Investment\nTo serve the growth in demand for reliable data center\ninfrastructure in Indonesia, DCI is committed to expand its\nfacilities and has ambitions to cater to a capacity of up to 300\nMW on a land bank of 8.7 hectares. During the 2021, DCI spent a total of Rp 503,418 million mainly\nto continue data center built-up project by completing JK5\nbuilding with 15 MW capacity. The Company uses a mix of bank\nloan, proceeds from IPO and internal operating cash to fund\nthese acquisitions. Target Achievement in 2021 and 2022 Projection In 2021, the Company was able to meet the Company’s\nperformance target that had been set at the beginning of the\nyear. DCI continuously record strong revenues growth and at\nthe same time improving overall profitability position. By the end of 2021, the Company recorded a revenues growth\nof 15% to be IDR 871.2 Bn compared to 2020. EBITDA for the\nyear is sitting at IDR 564.8 Bn and Net profit of IDR 261.4 Bn. EBITDA margin and Net profit margin is sitting at 64.8% and 30%. ",
+                        "documentMetadata": {
+                            "document": "projects/652345969561/locations/global/collections/default_collection/dataStores/sarana-pt-dci-indonesia-tbk_1723173857183_gcs_store/branches/0/documents/8ec017625dea0b834b8ee1c8ac8ac520",
+                            "uri": "gs://sarana-ai-corporate-inteligence/pt-dci-indonesia-tbk/Annual Report 2021.pdf",
+                            "title": "Annual Report 2021",
+                            "pageIdentifier": "77"
+                        }
+                    }
+                }
+            ],
+            "relatedQuestions": [
+                "Bagaimana kinerja perusahaan selama 5 tahun terakhir?",
+                "Bagaimana tingkat profitabilitas perusahaan?",
+                "Seberapa stabil kinerja perusahaan?",
+                "Bagaimana outlook kinerja perusahaan di tahun 2023?",
+                "Apakah perusahaan berisiko bangkrut?"
+            ],
+            "steps": [
+                {
+                    "state": "SUCCEEDED",
+                    "description": "Rephrase the query and search."
+                }
+            ]
+        },
+        "session": {
+            "name": "projects/652345969561/locations/global/collections/default_collection/engines/sarana-corporate-intellige_1723173775463/sessions/15733421349383333817",
+            "state": "IN_PROGRESS",
+            "turns": [
+                {
+                    "query": {
+                        "queryId": "projects/652345969561/locations/global/questions/15733421349383333434",
+                        "text": "Bagaimana performa perusahaan pada tahun 2022?"
+                    },
+                    "answer": "projects/652345969561/locations/global/collections/default_collection/engines/sarana-corporate-intellige_1723173775463/sessions/15733421349383333817/answers/3912168179269234149"
+                }
+            ],
+            "startTime": "2024-08-13T05:18:48.626351Z",
+            "endTime": "2024-08-13T05:18:48.626351Z"
+        },
+        "answerQueryToken": "NMwKDAi72eu1BhCz1sSsARIkNjZiOWE2ZGUtMDAwMC0yMjc5LWJhNzYtMDg5ZTA4MmQ3NjI0"
+    }
+}
