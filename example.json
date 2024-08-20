@@ -2,115 +2,34 @@
     "statusCode": 200,
     "message": "OK",
     "fulfilled": 1,
-    "data": [
-        {
-            "uuid": "2c6f44c6-28d8-40e5-9ee2-94b8173f7e58",
-            "name": "Senior Full Stack Programmer",
-            "company_name": "PT. Sarimelati Kencana Tbk.",
-            "company_image": "https://cdn.sejutacita.id/63983cf268e6b200152ce01f/JobPortalCompanyLogo/7151d15e-73f7-407c-b2e1-78f425e9b629.png",
-            "company_city": "Jakarta",
-            "description": "Deskripsi Pekerjaan\nBuilding new feature & maintaining core system website both frontend and backend side\nOptimize system code and flow\nWrite well-designed, testable, efficient code by using the best software development practices\nAbility to implement analityc tracking\nKualifikasi\nHands on experience with various programing languages like Go, Nodejs, Vue js, PHP, and JS\nHands on experience with RDBMS (MySql, Postgre) and NoSQL (MongoDB)\nKnowledge of Object-Oriented Programming\nExperience in maintaining e-commerce site\nSource Code Management like Git\nAble to communicate and coordinate with the team\nLearn and adapt to new technology implemented to support company core business\nCreative, Innovative, and able to work in dynamic working environment\nShare knowledge and experience to team",
-            "work_type": "fulltime",
-            "location_type": "onsite",
-            "minimum_salary": 1000000,
-            "maximum_salary": 5000000,
-            "skills": [
-                ""
-            ],
-            "level": "senior",
-            "deadline_at": "0001-01-01T00:00:00Z",
-            "status": 0,
-            "created_at": "2024-08-19T12:18:54+07:00",
-            "updated_at": "2024-08-19T12:18:54+07:00"
+    "data": {
+        "generate_id": "queue/61774f30-e0f8-42e9-af4c-52d465edc683/1724127281408/21a5af46-a7d7-4a94-af3c-3d53b2a1f418",
+        "progress_status": "finish",
+        "job_rec_uuid": "21a5af46-a7d7-4a94-af3c-3d53b2a1f418",
+        "result": {
+            "description": "You have a strong background in Java and other backend technologies, which is great! To make the transition to Angular development smoother, I recommend taking courses on web development with JavaScript, UI/UX design, and Angular itself. These courses will help you understand the front-end development process and how to build user interfaces using Angular.",
+            "course_list": [
+                {
+                    "uuid": "6637c431-74b8-4a65-b678-ed004585c007",
+                    "name": "Web Development with JavaScript",
+                    "image_file_url": "",
+                    "description": ""
+                },
+                {
+                    "uuid": "7adb33e8-f6e8-450e-bafb-994c43911f4b",
+                    "name": "UI/UX Design: Rahasia Merancang Produk Digital yang Menawan dan User-Friendly ",
+                    "image_file_url": "https://storage.googleapis.com/sarana-course-thumbnail/thumbnail-02ce110d-6eb7-48c5-b7dd-58cbc85ba048-queue_company_1_1_1719314546506.webp",
+                    "description": "Pelajari seluk-beluk UI/UX Design, dari dasar hingga mahir, untuk menciptakan produk digital yang memikat dan mudah digunakan. "
+                },
+                {
+                    "uuid": "0c4b6f51-ce10-4268-9f91-1ffd650d7043",
+                    "name": "UI/UX Design: Rahasia Merancang Produk Digital yang Menawan dan User-Friendly ",
+                    "image_file_url": "https://storage.googleapis.com/sarana-course-thumbnail/thumbnail-02ce110d-6eb7-48c5-b7dd-58cbc85ba048-queue_company_1_1_1719314546506.webp",
+                    "description": "Pelajari seluk-beluk UI/UX Design, dari dasar hingga mahir, untuk menciptakan produk digital yang memikat dan mudah digunakan. "
+                }
+            ]
         },
-        {
-            "uuid": "79f6fa5b-5c49-4701-9f43-ce2ba331688e",
-            "name": "Junior Security & System Engineer",
-            "company_name": "KOMPAS GRAMEDIA",
-            "company_image": "https://cdn.sejutacita.id/624bf7de2d6c17001488fe2d/Others/348fbc45-3183-494e-836f-4a2f8d7e9d34.png",
-            "company_city": "Jakarta Pusat",
-            "description": "Deskripsi Pekerjaan\nDaily Monitoring SIEM and security protection in the Server (on-premises and cloud).\nConfigure and Monitor Agent SIEM on-premises and Cloud.\nCheck Firewall activity on DC by Sophos UTM Log analyzer.\nReport and escalated any activity related to security in daily operational\nExecute action plan such as planning Preventive Maintenance time and implement changes management for any change activity in the team.\nCollaborate with other departments and vendors related to IT security operations and scheduled regular vulnerability scans and penetration tests for new systems/applications.\nKualifikasi\nWhat do you need?\n\nFamiliar with security verification penetration testing (Kali, Metasploit, Nessus, Wireshark, etc).\nUnderstanding of security framework (NIST 800-53).\nVery good knowledge of Linux and Windows systems.\nHigh attention to detail.\nSelf-starter & growth mindset.\nGood in English.\nRequired Skills\n\nLinux Server\nNetwork Security\nWindows Server\nInformation security",
-            "work_type": "fulltime",
-            "location_type": "hybrid",
-            "minimum_salary": 0,
-            "maximum_salary": 0,
-            "skills": [
-                ""
-            ],
-            "level": "junior",
-            "deadline_at": "0001-01-01T00:00:00Z",
-            "status": 0,
-            "created_at": "2024-08-19T12:18:54+07:00",
-            "updated_at": "2024-08-19T12:18:54+07:00"
-        },
-        {
-            "uuid": "50e293c9-34f0-4ca6-b2f4-22a45fbcc2ea",
-            "name": "Technical Consultant",
-            "company_name": "PT Metrodata Electronics Tbk.",
-            "company_image": "https://cdn.sejutacita.id/63e0c23d8c574700140623a5/JobPortalCompanyLogo/98f7f49a-ee12-4b2f-8984-b2134f33cc87.png",
-            "company_city": "Jakarta Barat",
-            "description": "Deskripsi Pekerjaan\nPT Metrodata Electronics, TBK (Digitial Solution Provider & Technology Innovator) would like to invite you to be part of the company to develop yourself and your skills. So let’s apply for the following open positions and have career with us.\n\nCandidate must possess at least Bachelor's Degree/Post Graduate/Professional Degree in Engineering (Computer/Telecommunication), Computer Science/Information Technology, Software engineer, or equivalent.\nAt least 1 years of experience in working with database, ETL processes and data integrations.\nFamiliar with postgreSQL, REST API, flat file\nFamiliar with basic of linux, unix or microsoft azure are considered an asset.\nAnalytical and problem solving skills\nAble to speak and write in English and Bahasa Indonesia.\nAble to work in team, fast learner, creative, self motivated and communicative.\nAble to work with minimum supervision\nWilling to travel to customer site in Jakarta / outside Jakarta for certain period.\n \n\nKualifikasi\nJob Description :\n\nDesign, Develop, Analyze, troubleshooting related Web Development.\nInvolved in all aspects of the development lifecycle, including development, Testing, UAT, deployment, warranty, and post-warranty bug fixes.\nConduct analysis and problem solving of application accuracy, application dependency, reporting and technical function.",
-            "work_type": "contract",
-            "location_type": "onsite",
-            "minimum_salary": 0,
-            "maximum_salary": 0,
-            "skills": [
-                ""
-            ],
-            "level": "junior",
-            "deadline_at": "0001-01-01T00:00:00Z",
-            "status": 0,
-            "created_at": "2024-08-19T12:18:54+07:00",
-            "updated_at": "2024-08-19T12:18:54+07:00"
-        },
-        {
-            "uuid": "4419abe2-3af8-487b-9688-c6b0acfdeb18",
-            "name": "Software Quality Assurance",
-            "company_name": "PT Bank Digital BCA (BCA Digital)",
-            "company_image": "https://cdn.sejutacita.id/64f53f68e988fd001333e0d8/JobPortalCompanyLogo/54a7cc1c-87e7-4e50-b7fc-87324ee25e74.jpg",
-            "company_city": "Jakarta Selatan",
-            "description": "Deskripsi Pekerjaan\nDevelop the optimal test case and write clean automation test code\nReview and analyze test results to ensure software quality and maintainability\nCollaborate with internal and external stakeholders in a clear and timely fashion about product development status\nKualifikasi\nMinimum of 2-4 years' work experience in Software Quality Assurance\nKnowledge of software development, integration, QA methodology & release process\nExperience conducting manual & automated tests on more than one platform: Mobile Web, Android, iOS or API\nUp to date with Java language\nExperience with DB tools is a must; DBeaver, Mysql, SQL Server, Postman\nExperience with automation script; Selenium, Appium, Cucumber\nExperience working with JIRA, Test and Defect Management tools\nExperience doing stress test is a plus\nExperience and knowledge or testing of Kafka or data stream is a plus\nFamiliar with Scrum framework\nResponsible, and able to work independently or in a team\nHave a passion in the development of information technology",
-            "work_type": "fulltime",
-            "location_type": "hybrid",
-            "minimum_salary": 0,
-            "maximum_salary": 0,
-            "skills": [
-                ""
-            ],
-            "level": "junior",
-            "deadline_at": "0001-01-01T00:00:00Z",
-            "status": 0,
-            "created_at": "2024-08-19T12:18:54+07:00",
-            "updated_at": "2024-08-19T12:18:54+07:00"
-        },
-        {
-            "uuid": "e9480774-8d0e-48bd-8861-63e1c4909ba0",
-            "name": "Software Development Engineer",
-            "company_name": "Sayurbox",
-            "company_image": "https://cdn.sejutacita.id/648c2f526afea7001307b6a3/JobPortalCompanyLogo/14924799-4cfc-44b1-a0b2-3baa8df79b4d.JPG",
-            "company_city": "Jakarta Selatan",
-            "description": "Deskripsi Pekerjaan\nSoftware Development Engineer (or simply Software Engineer) develops software. This is done not only by writing code but also with the right design (micro) and architecture (macro), with a mindset toward operation maintainability.\n\nAreas of responsibility in this position are:\n\nFull-stack web/mobile application development with a variety of coding languages.\nCreate consumer products and features using an internal programming language.\nWork closely with our Product Manager and Product Design teams to define feature specifications and build the next generation of products leveraging frameworks such as React & React Native.\nWork closely with operations and infrastructure to build and scale back-end services.\nBuild report interfaces and data feeds.\nTurn design into code.\nKualifikasi\nUnderstanding of Java, ReactJS, HTML, CSS, or other relevant coding languages.\nKnowledge of building large-scale infrastructure applications.\nExcellent problem-solving skills.\nExperience in working on large-scale applications.\nUnderstanding of performance optimization at the application level.\nGood understanding of relational databases and MySQL.",
-            "work_type": "fulltime",
-            "location_type": "offsite",
-            "minimum_salary": 0,
-            "maximum_salary": 0,
-            "skills": [
-                ""
-            ],
-            "level": "junior",
-            "deadline_at": "0001-01-01T00:00:00Z",
-            "status": 0,
-            "created_at": "2024-08-19T12:18:54+07:00",
-            "updated_at": "2024-08-19T12:18:54+07:00"
-        }
-    ],
-    "pagination": {
-        "type": "number",
-        "page": 1,
-        "per_page": 5,
-        "total_rows": 50,
-        "total_pages": 10,
-        "numbering_start": 1,
-        "sort": "id desc"
+        "prompt_type": "skills_gap",
+        "message": "Finish"
     }
 }
