@@ -3,33 +3,11 @@
     "message": "OK",
     "fulfilled": 1,
     "data": {
-        "generate_id": "queue/61774f30-e0f8-42e9-af4c-52d465edc683/1722910620356/8d9411b9-0656-4d6f-957d-807f2dc43e0c",
-        "progress_status": "assessment_finish",
-        "assessment_detail_data": {
-            "assessment_detail_title": "Thisss iss titleee",
-            "assessment_detail_content_type": "essay",
-            "assessment_detail_content_essay": [
-                {
-                    "question": "Apa yang dimaksud dengan UI Design?",
-                    "difficulty": ""
-                },
-                {
-                    "question": "Apa yang dimaksud dengan UI Design?",
-                    "difficulty": ""
-                },
-                {
-                    "question": "Apa yang dimaksud dengan UI Design?",
-                    "difficulty": ""
-                }
-            ],
-            "assessment_detail_content_multiple_choice": null,
-            "assessment_detail_content_attachment_bundle": null,
-            "message": "",
-            "time_taken_in_seconds": 0,
-            "assessment_uuid": "8d9411b9-0656-4d6f-957d-807f2dc43e0c",
-            "assessment_detail_uuid": "531d2a35-ac92-4ff8-93df-3d576a458ffd"
-        },
-        "message": "Assessment generated : Finish",
-        "time_taken_in_seconds": 0
+        "generate_id": "queue/61774f30-e0f8-42e9-af4c-52d465edc683/1724128106676/145bfbdc-96e2-40fc-ab78-b120a6fcf6b5",
+        "progress_status": "finish",
+        "job_rec_uuid": "145bfbdc-96e2-40fc-ab78-b120a6fcf6b5",
+        "result": "## Sample Interview Questions and Answers\n\n**Question 1:** Tell me about your experience with Angular development, specifically version 10.x.\n\n**Answer:** While my background is primarily in backend development with Java, Cassandra, Redis, and other technologies, I have a strong understanding of frontend development principles and have actively kept up with modern frameworks like Angular. I've completed several personal projects using Angular 10.x, focusing on building responsive and interactive user interfaces. These projects allowed me to gain hands-on experience with components, directives, services, and data binding, which are essential for building robust Angular applications. I'm eager to leverage this knowledge and further develop my Angular skills in a professional setting.\n\n**Question 2:** Describe your approach to designing and implementing user interfaces.\n\n**Answer:** I believe in a user-centric approach to UI design. I start by understanding the target audience and their needs, then translate those needs into a clear and intuitive interface. I prioritize usability, accessibility, and visual appeal. I'm familiar with design principles like consistency, hierarchy, and feedback mechanisms. I also value collaboration with designers to ensure the final product aligns with the overall design vision.\n\n**Question 3:** How do you ensure the quality and performance of your front-end code?\n\n**Answer:** I prioritize writing clean, maintainable, and well-documented code. I utilize unit testing frameworks to ensure the functionality of individual components and integration tests to verify the overall application flow. I also employ code analysis tools to identify potential performance bottlenecks and optimize code for efficiency. I'm familiar with profiling tools and techniques to identify and address performance issues.\n\n**Question 4:** How do you handle communication and collaboration with other team members, especially when working on a complex project?\n\n**Answer:** Effective communication is crucial for successful teamwork. I believe in open and transparent communication, actively seeking feedback and sharing updates regularly. I'm comfortable using various communication tools and platforms to facilitate collaboration. I'm also a strong advocate for clear documentation and code reviews to ensure everyone is on the same page and working towards a common goal.\n\n**Question 5:** How do you stay up-to-date with the latest trends and technologies in web development?\n\n**Answer:** I actively follow industry blogs, podcasts, and online communities to stay informed about the latest advancements in web development. I attend conferences and workshops to learn from experts and network with other professionals. I also experiment with new technologies and frameworks in my personal projects to stay ahead of the curve.\n\n**Question 6:** Describe your experience with working in an Agile development environment.\n\n**Answer:** I'm familiar with Agile methodologies like Scrum and have experience working in teams that utilize these frameworks. I understand the importance of iterative development, sprint planning, daily stand-ups, and retrospectives. I'm comfortable adapting to changing requirements and collaborating effectively within an Agile workflow.\n\n**Question 7:** How would you approach debugging and troubleshooting complex issues in a web application?\n\n**Answer:** I employ a systematic approach to debugging, starting with identifying the root cause of the issue. I utilize browser developer tools, logging statements, and debugging techniques to pinpoint the problem. I also leverage code analysis tools and performance profiling to identify potential bottlenecks and optimize code for efficiency. I believe in a collaborative approach to debugging, seeking input from other team members and sharing knowledge to resolve issues effectively.\n\n**Question 8:** What are your thoughts on the importance of documentation in software development?\n\n**Answer:** I believe that well-written documentation is essential for maintainability, collaboration, and knowledge sharing. I strive to document my code clearly and concisely, using comments, inline documentation, and external documentation tools. I also contribute to team documentation efforts to ensure a comprehensive understanding of the project and its components.\n\n**Question 9:** How do you handle working with APIs and integrating them into your front-end applications?\n\n**Answer:** I'm comfortable working with RESTful APIs and have experience consuming data from various sources. I utilize libraries and frameworks to simplify API interactions and handle data parsing and manipulation. I also prioritize security considerations when working with APIs, ensuring data is transmitted securely and handled responsibly.\n\n**Question 10:** What are your thoughts on the importance of performance optimization in web applications?\n\n**Answer:** Performance is crucial for a positive user experience. I prioritize optimizing code for speed and efficiency, utilizing techniques like code minification, image optimization, and caching. I also analyze website performance using tools and metrics to identify areas for improvement. I'm committed to delivering web applications that load quickly and provide a smooth user experience. \n",
+        "prompt_type": "interview_prep",
+        "message": "Finish"
     }
 }
