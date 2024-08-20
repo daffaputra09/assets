@@ -1,0 +1,62 @@
+{
+    "statusCode": 200,
+    "message": "OK",
+    "fulfilled": 1,
+    "data": {
+        "generate_id": "queue/61774f30-e0f8-42e9-af4c-52d465edc683/1724135589266/cacd30fc-e94f-419e-926f-f6e42cefd4be",
+        "progress_status": "finish",
+        "job_rec_uuid": "cacd30fc-e94f-419e-926f-f6e42cefd4be",
+        "result": {
+            "candidate_name": "Dimas Budi",
+            "certificates": [
+                {
+                    "certificate_title": "Senior Software Engineer",
+                    "published_by": "The Linux Foundation"
+                },
+                {
+                    "certificate_title": "AWS Certified Solutions Architect",
+                    "published_by": "Amazon Web Services"
+                }
+            ],
+            "contacts": {
+                "address": "",
+                "email": "johndoe@example.com",
+                "linkedin": "linkedin.com/in/johndoe",
+                "phone": "123 Main Street, Anytown, USA"
+            },
+            "educations": [
+                {
+                    "degree_achievement": "Bachelor of Science in Computer Science",
+                    "graduated_at": "May 2018",
+                    "institution_name": "Tech University"
+                },
+                {
+                    "degree_achievement": "Associate Degree in Information Technology",
+                    "graduated_at": "August 2015",
+                    "institution_name": "Anytown Community College"
+                }
+            ],
+            "experiences": [
+                {
+                    "end_at": "",
+                    "experience_description": "Led the development of multiple high-traffic web applications using modern frameworks and technologies. Mentored junior developers and collaborated with designers and product managers.",
+                    "experience_title": "Senior Software Engineer",
+                    "is_present": true,
+                    "start_at": "2021-06-01"
+                },
+                {
+                    "end_at": "2021-05-31",
+                    "experience_description": "Developed and maintained web applications, optimized performance, and worked closely with QA teams to ensure high standards of software quality.",
+                    "experience_title": "Software Engineer",
+                    "is_present": false,
+                    "start_at": "2018-07-01"
+                }
+            ],
+            "job_title": "Software Engineer",
+            "skills": "Proficient in JavaScript and Python, with a strong emphasis on building responsive and interactive user interfaces using React. Experienced in backend development with Node.js, including API design and integration. Skilled in working with SQL databases for data modeling and queries, and adept at containerizing applications using Docker and managing deployments with Kubernetes. Familiar with Agile methodologies, ensuring efficient and iterative project delivery.",
+            "summary": "Highly skilled Software Engineer with over 5 years of experience in full-stack development, specializing in building scalable applications and working with cross-functional teams to deliver quality products."
+        },
+        "prompt_type": "resume",
+        "message": "Job recommendation Finish"
+    }
+}
