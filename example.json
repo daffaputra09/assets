@@ -10,12 +10,6 @@
             "description": "You have a strong background in Java and other backend technologies, which is great! To make the transition to Angular development smoother, I recommend taking courses on web development with JavaScript, UI/UX design, and Angular itself. These courses will help you understand the front-end development process and how to build user interfaces using Angular.",
             "course_list": [
                 {
-                    "uuid": "6637c431-74b8-4a65-b678-ed004585c007",
-                    "name": "Web Development with JavaScript",
-                    "image_file_url": "",
-                    "description": ""
-                },
-                {
                     "uuid": "7adb33e8-f6e8-450e-bafb-994c43911f4b",
                     "name": "UI/UX Design: Rahasia Merancang Produk Digital yang Menawan dan User-Friendly ",
                     "image_file_url": "https://storage.googleapis.com/sarana-course-thumbnail/thumbnail-02ce110d-6eb7-48c5-b7dd-58cbc85ba048-queue_company_1_1_1719314546506.webp",
