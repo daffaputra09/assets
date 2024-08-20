@@ -19,10 +19,10 @@
                 }
             ],
             "contacts": {
-                "address": "",
+                "address": "123 Main Street, Anytown, USA",
                 "email": "johndoe@example.com",
                 "linkedin": "linkedin.com/in/johndoe",
-                "phone": "123 Main Street, Anytown, USA"
+                "phone": "+62 812 3456 7890 "
             },
             "educations": [
                 {
