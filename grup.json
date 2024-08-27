@@ -1,0 +1,56 @@
+{
+    "statusCode": 200,
+    "message": "OK",
+    "fulfilled": 1,
+    "data": {
+        "training_uuid": "f1d6fc98-1120-43c9-a303-ea4dfadbe8d6",
+        "name": "Penguasaan Prompt Engineering: Mengoptimalkan Model Bahasa untuk Berbagai Kebutuhan",
+        "category": "",
+        "image_file": "https://storage.googleapis.com/sarana-course-thumbnail/thumbnail-47028941-ff0b-47ef-9a40-32df70dd85e1-f1d6fc98-1120-43c9-a303-ea4dfadbe8d6.webp",
+        "description": "Kursus komprehensif ini membahas tentang prompt engineering, mulai dari dasar hingga teknik lanjutan, untuk memaksimalkan potensi model bahasa dalam berbagai aplikasi.",
+        "status": 0,
+        "training_grouped_detail": [
+            {
+                "group_uuid": "61774f30-e0f8-42e9-af4c-52d465edc684",
+                "name": "Introduction",
+                "sequence": 0,
+                "training_detail_data": [
+                    {
+                        "training_detail_uuid": "18092005-2c92-4eca-8923-1fc72dd47668",
+                        "name": "Pengantar Apa itu Prompt?",
+                        "content_type": "markdown",
+                        "generate_overview": "",
+                        "sequence": 1,
+                        "content_data": null
+                    }
+                ]
+            },
+            {
+                "group_uuid": "",
+                "name": "ungrouped",
+                "sequence": 1,
+                "training_detail_data": [
+                    {
+                        "training_detail_uuid": "631f7949-2c92-4eca-8923-1fc72dd47668",
+                        "name": " Prompt Engineering",
+                        "content_type": "markdown",
+                        "generate_overview": "",
+                        "sequence": 1,
+                        "content_data": null
+                    },
+                    {
+                        "training_detail_uuid": "84070675-38e1-44e1-af19-4ba9386cf219",
+                        "name": "Ujian Pemahaman:  Prompt Engineering",
+                        "content_type": "exam",
+                        "generate_overview": "",
+                        "sequence": 2,
+                        "content_data": null
+                    }
+                ]
+            }
+        ],
+        "created_at": "2024-07-12T11:17:26Z",
+        "updated_at": "2024-07-12T11:17:37Z",
+        "is_deleted": 0
+    }
+}
