@@ -11,7 +11,7 @@
             "assessment_detail_content_essay":null,
             "assessment_detail_content_multiple_choice": null,
             "assessment_detail_content_attachment_bundle": null,
-	    "assessment_detail_content_youtube_embed": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+	    "assessment_detail_content_youtube_embed": ["https://www.youtube.com/watch?v=dQw4w9WgXcQ", "https://www.youtube.com/watch?v=dQw4w9WgXcQ"],
             "message": "",
             "time_taken_in_seconds": 0,
             "assessment_uuid": "8d9411b9-0656-4d6f-957d-807f2dc43e0c",
