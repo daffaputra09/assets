@@ -1,0 +1,55 @@
+{
+    "statusCode": 200,
+    "message": "OK",
+    "fulfilled": 1,
+    "data": {
+        "training_detail_title": "Tes diagnostik",
+        "training_detail_content_type": "DIAGNOSTIC_TEST",
+        "training_detail_content_exam": [
+            {
+                "question": "Apa yang dimaksud dengan UI Design?",
+                "multiple_choices": [
+                    {
+                        "choice": "Seni merancang pengalaman pengguna secara keseluruhan dalam sebuah produk digital.",
+                        "is_correct": false
+                    },
+                    {
+                        "choice": "Fondasi dan struktur yang membentuk tata letak dan fungsionalitas produk digital.",
+                        "is_correct": false
+                    },
+                    {
+                        "choice": "Seni merancang antarmuka pengguna yang menarik dan estetis dalam produk digital.",
+                        "is_correct": true
+                    },
+                    {
+                        "choice": "Proses menguji dan meningkatkan kegunaan dan kepuasan pengguna terhadap produk digital.",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question": "Apa yang dimaksud dengan UI Design?",
+                "multiple_choices": [
+                    {
+                        "choice": "Seni merancang pengalaman pengguna secara keseluruhan dalam sebuah produk digital.",
+                        "is_correct": false
+                    },
+                    {
+                        "choice": "Fondasi dan struktur yang membentuk tata letak dan fungsionalitas produk digital.",
+                        "is_correct": false
+                    },
+                    {
+                        "choice": "Seni merancang antarmuka pengguna yang menarik dan estetis dalam produk digital.",
+                        "is_correct": true
+                    },
+                    {
+                        "choice": "Proses menguji dan meningkatkan kegunaan dan kepuasan pengguna terhadap produk digital.",
+                        "is_correct": false
+                    }
+                ]
+            }
+        ],
+        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+        "training_detail_uuid": "c2b53004-683c-4e68-b3f4-8a05edc8a38a"
+    }
+}
