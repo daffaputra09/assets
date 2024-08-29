@@ -1,0 +1,140 @@
+{
+    "statusCode": 200,
+    "message": "OK",
+    "fulfilled": 1,
+    "data": {
+        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+        "training_title": "Jelajahi Jejak Sejarah Indonesia",
+        "training_image": "",
+        "training_description": "Kursus ini akan mengajak peserta didik untuk memahami konsep dasar ilmu sejarah, menganalisis peristiwa sejarah di Indonesia, dan mengembangkan keterampilan penelitian sejarah.",
+        "training_grouped_detail": [
+            {
+                "training_group_title": "Diagnostik Test",
+                "training_detail_data": [
+                    {
+                        "training_detail_title": "Tes diagnostik",
+                        "training_detail_content_type": "DIAGNOSTIC_TEST",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "c2b53004-683c-4e68-b3f4-8a05edc8a38a"
+                    }
+                ]
+            },
+            {
+                "training_group_title": "Peradaban Hindu-Buddha di Indonesia",
+                "training_detail_data": [
+                    {
+                        "training_detail_title": "Konsep dasar ilmu sejarah",
+                        "training_detail_content_type": "MARKDOWN",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "b0b8a242-2042-4fdc-8061-6d46051b63ba"
+                    },
+                    {
+                        "training_detail_title": "Metode penelitian sejarah",
+                        "training_detail_content_type": "YOUTUBE",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "0be6e9e7-fb8a-4087-bc0b-85cac76d802c"
+                    },
+                    {
+                        "training_detail_title": "Kuis pilihan ganda",
+                        "training_detail_content_type": "MULTIPLE_CHOICE_QUESTION",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "7c7fb74e-4e73-403e-9e56-9d76fe8a96be"
+                    },
+                    {
+                        "training_detail_title": "Proyek berbasis pembelajaran",
+                        "training_detail_content_type": "PROJECT_BASE_LEARNING",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "da53cf00-f63f-4113-b3ff-ab5a7e9c77a8"
+                    }
+                ]
+            },
+            {
+                "training_group_title": "Jejak Nenek Moyang dan Jalur Rempah",
+                "training_detail_data": [
+                    {
+                        "training_detail_title": "Konsep dasar ilmu sejarah",
+                        "training_detail_content_type": "MARKDOWN",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "fb43731e-a562-475d-aa67-20f257902272"
+                    },
+                    {
+                        "training_detail_title": "Metode penelitian sejarah",
+                        "training_detail_content_type": "YOUTUBE",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "894a1800-174d-4add-bd57-c297b07584a4"
+                    },
+                    {
+                        "training_detail_title": "Kuis pilihan ganda",
+                        "training_detail_content_type": "MULTIPLE_CHOICE_QUESTION",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "6fbc6ca2-5bba-4b19-8a41-0d1f318e0cb9"
+                    },
+                    {
+                        "training_detail_title": "Proyek berbasis pembelajaran",
+                        "training_detail_content_type": "PROJECT_BASE_LEARNING",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "3b00cda0-8675-4417-8ca7-33c9cfb6a32c"
+                    }
+                ]
+            },
+            {
+                "training_group_title": "Pengantar Ilmu Sejarah",
+                "training_detail_data": [
+                    {
+                        "training_detail_title": "Konsep dasar ilmu sejarah",
+                        "training_detail_content_type": "MARKDOWN",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "7e624b30-a425-4114-ba32-e56019236284"
+                    },
+                    {
+                        "training_detail_title": "Metode penelitian sejarah",
+                        "training_detail_content_type": "YOUTUBE",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "a638e630-cd79-4161-8b6d-ab0440af064a"
+                    },
+                    {
+                        "training_detail_title": "Kuis pilihan ganda",
+                        "training_detail_content_type": "MULTIPLE_CHOICE_QUESTION",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "aa019048-5ac8-4224-992e-28e854121aec"
+                    },
+                    {
+                        "training_detail_title": "Proyek berbasis pembelajaran",
+                        "training_detail_content_type": "PROJECT_BASE_LEARNING",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "697c750d-4ec6-486d-8f33-7773af41c930"
+                    }
+                ]
+            },
+            {
+                "training_group_title": "Peradaban Islam di Indonesia",
+                "training_detail_data": [
+                    {
+                        "training_detail_title": "Konsep dasar ilmu sejarah",
+                        "training_detail_content_type": "MARKDOWN",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "8a96719b-2959-4b63-aa15-6139cb71baec"
+                    },
+                    {
+                        "training_detail_title": "Metode penelitian sejarah",
+                        "training_detail_content_type": "YOUTUBE",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "36bec295-09e7-4330-b7b0-fa68769b3c64"
+                    },
+                    {
+                        "training_detail_title": "Kuis pilihan ganda",
+                        "training_detail_content_type": "MULTIPLE_CHOICE_QUESTION",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "81ee4f6f-8556-4f00-a96c-9e66c3a41c35"
+                    },
+                    {
+                        "training_detail_title": "Proyek berbasis pembelajaran",
+                        "training_detail_content_type": "PROJECT_BASE_LEARNING",
+                        "training_uuid": "792f3269-e207-414e-be08-23f840ec0422",
+                        "training_detail_uuid": "76b9f99f-2309-4680-bb1d-527760e2c0dc"
+                    }
+                ]
+            }
+        ]
+    }
+}
