@@ -1,0 +1,180 @@
+    {
+        "statusCode": 200,
+        "message": "OK",
+        "fulfilled": 1,
+        "data": {
+            "generate_id": "queue/b24ee361-98f9-4a86-8918-4410c8f3a57d/1726218957538/216e0159-3641-4bc5-b191-caa5f42d4c5b",
+            "recruitment_id": "216e0159-3641-4bc5-b191-caa5f42d4c5b",
+            "progress_status": "finish",
+            "message": "Saving Job",
+            "result_recruitment": {
+                "job_description": "## Laravel Developer\n\n**Job Summary**\n\nPT Sinar Mas Utama is seeking a talented and passionate Laravel Developer to join our growing team.  As a Laravel Developer, you will play a key role in designing, developing, and maintaining our web applications, contributing to the success of our digital products and services. You will be responsible for building efficient, scalable, and user-friendly web applications using the Laravel framework. This is a challenging and rewarding opportunity to work on exciting projects and contribute to the continued growth of our company.\n\n**Responsibilities**\n\n* Develop and maintain web applications using Laravel framework.\n* Collaborate with designers and other developers to implement new features and functionalities.\n* Write clean, well-documented, and testable code.\n* Design and implement efficient database solutions.\n* Troubleshoot and resolve technical issues related to web applications.\n* Stay up-to-date with the latest technologies and trends in web development.\n* Contribute to the development of best practices and coding standards.\n* Participate in code reviews and knowledge sharing within the team.\n\n**Qualifications**\n\n* Strong understanding of PHP and object-oriented programming principles.\n* Proven experience working with the Laravel framework.\n* Experience with relational databases (MySQL, PostgreSQL).\n* Familiarity with front-end technologies like HTML, CSS, and JavaScript.\n* Excellent problem-solving and analytical skills.\n* Ability to work independently and as part of a team.\n* Strong communication and interpersonal skills.\n\n**Preferred Qualifications:**\n\n* Experience with API development and RESTful services.\n* Experience with version control systems (Git).\n* Experience with testing frameworks (PHPUnit, Behat).\n* Knowledge of other PHP frameworks (Symfony, CodeIgniter).\n* Experience with cloud platforms (AWS, Azure, GCP).\n\n**Benefits**\n\n* Competitive salary and benefits package.\n* Opportunities for professional development and growth.\n* Dynamic and collaborative work environment.\n* Flexible work arrangements.\n* Health insurance coverage.\n* Paid time off and holidays.\n* Employee discount program.\n",
+                "outreach_message": "\nHi {candidate_name},\n\nI hope this message finds you well! I wanted to reach out and share an exciting opportunity that I think could be a great fit for you.\n\nAre you a skilled Laravel Developer with experience building efficient and scalable web applications? We're looking for someone with a strong understanding of PHP and object-oriented programming, along with experience working with relational databases. If you're passionate about web development and eager to contribute to our growing team, we encourage you to apply! Click here to apply and complete our screening test: \n{job_link} \n\n\nPlease feel free to reach out if you have any questions or would like to learn more about the role and our team!\n\nLooking forward to hearing from you.\n\nBest regards,\n{sender_name}\n",
+                "generate_mcq": [
+                    {
+                        "question": "You are tasked with building a complex web application that requires high performance and scalability. You need to choose a database solution that can handle large amounts of data and complex queries efficiently. Which of the following database solutions would be the most suitable choice for this scenario, considering the Laravel framework's strengths and the need for optimal performance?",
+                        "multiple_choices": [
+                            {
+                                "content": "MySQL with InnoDB engine, leveraging Laravel's Eloquent ORM for efficient data access and relationships.",
+                                "is_correct": true
+                            },
+                            {
+                                "content": "MongoDB, utilizing Laravel's MongoDB driver for its flexibility and scalability in handling unstructured data."
+                            },
+                            {
+                                "content": "SQLite, due to its simplicity and ease of integration with Laravel, especially for smaller projects."
+                            },
+                            {
+                                "content": "Redis, primarily used for caching and session management, not as a primary database for complex applications."
+                            }
+                        ]
+                    },
+                    {
+                        "question": "You are developing a RESTful API using Laravel. You need to implement authentication and authorization to secure your API endpoints. Which of the following Laravel packages would be the most suitable choice for this purpose, considering its robust features and integration with Laravel's ecosystem?",
+                        "multiple_choices": [
+                            {
+                                "content": "Laravel Passport, a full-featured OAuth2 server implementation for Laravel, providing a secure and flexible way to authenticate and authorize API clients.",
+                                "is_correct": true
+                            },
+                            {
+                                "content": "Laravel Sanctum, a lightweight API authentication solution for Laravel, ideal for simpler API authentication scenarios."
+                            },
+                            {
+                                "content": "Laravel Socialite, a package for easy integration with popular social login providers, not directly focused on API authentication."
+                            },
+                            {
+                                "content": "Laravel Breeze, a starter kit for building Laravel applications, offering basic authentication features but not specifically designed for API authentication."
+                            }
+                        ]
+                    },
+                    {
+                        "question": "You are working on a Laravel project that requires efficient caching to improve performance. You need to choose a caching solution that integrates seamlessly with Laravel and offers high performance. Which of the following caching solutions would be the most suitable choice for this scenario, considering Laravel's caching capabilities and the need for optimal performance?",
+                        "multiple_choices": [
+                            {
+                                "content": "Redis, a fast in-memory data store that provides high performance caching and is well-integrated with Laravel's caching system.",
+                                "is_correct": true
+                            },
+                            {
+                                "content": "Memcached, another popular in-memory data store, offering similar performance benefits as Redis and integration with Laravel."
+                            },
+                            {
+                                "content": "File caching, a simple caching mechanism using the file system, suitable for smaller projects but not ideal for high-performance scenarios."
+                            },
+                            {
+                                "content": "Database caching, using the application's database for caching, potentially impacting database performance and not recommended for high-performance caching."
+                            }
+                        ]
+                    },
+                    {
+                        "question": "You are developing a Laravel application that requires sending emails to users. You need to choose an email service provider that integrates well with Laravel and offers reliable email delivery. Which of the following email service providers would be the most suitable choice for this scenario, considering Laravel's email configuration options and the need for reliable email delivery?",
+                        "multiple_choices": [
+                            {
+                                "content": "Amazon SES (Simple Email Service), a cost-effective and reliable email service provider that integrates seamlessly with Laravel and offers robust features for email delivery.",
+                                "is_correct": true
+                            },
+                            {
+                                "content": "Mailgun, another popular email service provider, offering similar features and integration with Laravel as Amazon SES."
+                            },
+                            {
+                                "content": "SendGrid, a well-known email service provider, providing a wide range of features but might not be the most cost-effective option for smaller projects."
+                            },
+                            {
+                                "content": "Using the default PHP mail function, a basic email sending mechanism, not recommended for production environments due to potential reliability issues."
+                            }
+                        ]
+                    },
+                    {
+                        "question": "You are working on a Laravel project that requires implementing a robust and secure authentication system. You need to choose a user authentication solution that integrates seamlessly with Laravel and offers strong security features. Which of the following user authentication solutions would be the most suitable choice for this scenario, considering Laravel's authentication capabilities and the need for robust security?",
+                        "multiple_choices": [
+                            {
+                                "content": "Laravel's built-in authentication system, providing a solid foundation for user authentication, offering features like password hashing, session management, and user roles.",
+                                "is_correct": true
+                            },
+                            {
+                                "content": "JWT (JSON Web Token) authentication, a stateless authentication mechanism that can be implemented using Laravel packages like Tymon's JWT Auth, offering flexibility and scalability."
+                            },
+                            {
+                                "content": "OAuth2 authentication, a protocol for delegated authorization, often used for social logins and API authentication, not typically used for basic user authentication."
+                            },
+                            {
+                                "content": "Basic authentication, a simple authentication mechanism using HTTP headers, not recommended for modern web applications due to security vulnerabilities."
+                            }
+                        ]
+                    },
+                    {
+                        "question": "You are tasked with optimizing the performance of a Laravel application that is experiencing slow loading times. You need to identify the potential bottlenecks and implement strategies to improve performance. Which of the following strategies would be the most effective in addressing performance issues in a Laravel application, considering the common performance bottlenecks and Laravel's optimization techniques?",
+                        "multiple_choices": [
+                            {
+                                "content": "Implementing caching mechanisms, such as Redis or Memcached, to store frequently accessed data in memory, reducing database queries and improving response times.",
+                                "is_correct": true
+                            },
+                            {
+                                "content": "Optimizing database queries, using indexes, minimizing joins, and avoiding unnecessary queries, to improve database performance and reduce loading times."
+                            },
+                            {
+                                "content": "Minifying and combining CSS and JavaScript files, reducing the number of HTTP requests and improving page load times."
+                            },
+                            {
+                                "content": "Utilizing content delivery networks (CDNs) to distribute static assets across multiple servers, reducing latency and improving asset loading times."
+                            }
+                        ]
+                    },
+                    {
+                        "question": "You are developing a Laravel application that requires handling user input and ensuring data integrity. You need to implement validation rules to prevent invalid or malicious data from being submitted. Which of the following Laravel features would be the most suitable choice for implementing data validation rules, considering its ease of use and integration with Laravel's request handling mechanism?",
+                        "multiple_choices": [
+                            {
+                                "content": "Laravel's built-in validation system, providing a simple and flexible way to define validation rules for request data, ensuring data integrity and security.",
+                                "is_correct": true
+                            },
+                            {
+                                "content": "Using custom validation logic within controllers or models, offering more control but potentially leading to code duplication and maintenance challenges."
+                            },
+                            {
+                                "content": "Implementing validation using JavaScript on the client-side, providing immediate feedback to users but not a reliable security measure against malicious data."
+                            },
+                            {
+                                "content": "Using third-party validation libraries, offering additional features but potentially adding complexity and dependencies to the project."
+                            }
+                        ]
+                    },
+                    {
+                        "question": "You are working on a Laravel project that requires implementing a robust and scalable logging system to track application events and debug issues. Which of the following logging solutions would be the most suitable choice for this scenario, considering Laravel's logging capabilities and the need for reliable and scalable logging?",
+                        "multiple_choices": [
+                            {
+                                "content": "Monolog, a flexible and powerful logging library that integrates seamlessly with Laravel, offering various logging handlers for different log destinations, such as files, databases, and remote services.",
+                                "is_correct": true
+                            },
+                            {
+                                "content": "Using Laravel's default logging system, providing basic logging functionality but might not be sufficient for complex logging requirements."
+                            },
+                            {
+                                "content": "Implementing custom logging logic within controllers or models, offering more control but potentially leading to code duplication and maintenance challenges."
+                            },
+                            {
+                                "content": "Using third-party logging services, such as Loggly or Papertrail, offering centralized logging and monitoring but potentially adding cost and complexity to the project."
+                            }
+                        ]
+                    },
+                    {
+                        "question": "You are developing a Laravel application that requires handling user-uploaded files, such as images or documents. You need to choose a file storage solution that integrates well with Laravel and offers secure and efficient file management. Which of the following file storage solutions would be the most suitable choice for this scenario, considering Laravel's file storage capabilities and the need for secure and efficient file management?",
+                        "multiple_choices": [
+                            {
+                                "content": "Amazon S3 (Simple Storage Service), a cloud-based object storage service that integrates seamlessly with Laravel and offers high scalability, security, and cost-effectiveness for storing user-uploaded files.",
+                                "is_correct": true
+                            },
+                            {
+                                "content": "Using the local file system, a simple and straightforward approach for storing files, but might not be suitable for large-scale applications or those requiring high availability."
+                            },
+                            {
+                                "content": "Using a database to store file data, a less efficient approach for storing large files and potentially impacting database performance."
+                            },
+                            {
+                                "content": "Using a third-party file storage service, such as Cloudinary or Imgix, offering additional features like image optimization and manipulation but potentially adding cost and complexity to the project."
+                            }
+                        ]
+                    }
+                ],
+                "generate_coding_text": "## Coding Challenge:  String Manipulation\n\nThis challenge will test your ability to work with strings and basic algorithms in PHP.\n\n**Problem:**\n\nYou are given a string containing a list of words separated by spaces. Your task is to write a function that takes this string as input and returns a new string where:\n\n1. **Each word is reversed.**\n2. **The order of the words is reversed.**\n\n**Example:**\n\n**Input:** \"This is a test string\"\n\n**Output:** \"gnirts test a si sihT\"\n\n**Edge Cases:**\n\n* **Empty string:** If the input string is empty, return an empty string.\n* **Single word:** If the input string contains only one word, return the reversed word.\n\n**Instructions:**\n\n1. **Write a PHP function** named `reverseWords` that takes a string as input and returns the modified string.\n2. **Use core PHP features** to solve this problem. You do not need to use any external libraries or frameworks.\n3. **Focus on code clarity and efficiency.**\n4. **Submit only the pseudocode** for your solution. Do not submit actual PHP code.\n\n**Pseudocode Example:**\n\n```\nfunction reverseWords(string $inputString): string\n{\n  // Split the input string into an array of words\n  // Reverse the order of words in the array\n  // Reverse each word in the array\n  // Join the words back into a string with spaces\n  // Return the final string\n}\n```\n\n**Note:** This challenge is designed to be solved in a single file. You do not need to create multiple files or use any external dependencies. \n"
+            }
+        }
+    }
