@@ -3,178 +3,67 @@
     "message": "OK",
     "fulfilled": 1,
     "data": {
-        "generate_id": "queue/b24ee361-98f9-4a86-8918-4410c8f3a57d/1726290448941/5dbb2c3f-8fe4-42bf-8e2c-35deea4859bc",
-        "recruitment_id": "5dbb2c3f-8fe4-42bf-8e2c-35deea4859bc",
+        "generate_id": "queue/61774f30-e0f8-42e9-af4c-52d465edc683/1726553130445/92e1c23c-7dc6-483f-aa78-c22686f29b21",
+        "recruitment_id": "92e1c23c-7dc6-483f-aa78-c22686f29b21",
         "progress_status": "finish",
-        "message": "Saving Job",
+        "message": "Job rec generated : Finish",
         "result_recruitment": {
-            "job_description": "## Full Stack Developer\n\n**Company Name:** [Insert Company Name Here]\n\n**Job Summary:**\n\nWe are seeking a talented and passionate Full Stack Developer to join our growing team. As a Full Stack Developer, you will be responsible for the development and maintenance of our web applications, from front-end user interfaces to back-end systems and databases. You will work closely with designers, product managers, and other developers to deliver high-quality, user-centric solutions. This is a unique opportunity to contribute to the development of [mention specific projects or products] and make a real impact on our company's success.\n\n**Responsibilities:**\n\n* Design, develop, and maintain user interfaces using modern front-end technologies such as HTML, CSS, JavaScript, and popular frameworks like React, Angular, or Vue.js.\n* Develop and maintain robust back-end systems and APIs using languages like Python, Node.js, Java, or PHP.\n* Work with databases (SQL and NoSQL) to store and retrieve data efficiently.\n* Participate in the entire software development lifecycle, from requirements gathering and design to testing, deployment, and maintenance.\n* Collaborate with designers, product managers, and other developers to ensure seamless integration and optimal user experience.\n* Stay up-to-date with the latest technologies and best practices in web development.\n* Contribute to the overall development and improvement of our codebase and infrastructure.\n* Proactively identify and resolve technical issues.\n\n**Qualifications:**\n\n* Strong understanding of front-end development concepts, including HTML, CSS, JavaScript, and at least one popular JavaScript framework (React, Angular, or Vue.js).\n* Experience with back-end development using languages like Python, Node.js, Java, or PHP.\n* Familiarity with databases (SQL and NoSQL) and data structures.\n* Proficiency in version control systems (Git).\n* Excellent communication and collaboration skills.\n* Passion for learning new technologies and a desire to continuously improve.\n* Ability to work independently and as part of a team.\n* Strong problem-solving and analytical skills.\n\n**Preferred Qualifications:**\n\n* Experience with cloud platforms (AWS, Azure, Google Cloud).\n* Experience with testing frameworks and methodologies.\n* Experience with CI/CD pipelines.\n* Experience with Agile development methodologies.\n* Experience with specific technologies used by the company (e.g., specific frameworks, libraries, or tools).\n\n**Benefits:**\n\n* Competitive salary and benefits package.\n* Opportunity to work on challenging and rewarding projects.\n* Collaborative and supportive work environment.\n* Opportunities for professional growth and development.\n* [Insert other benefits, such as health insurance, retirement plans, paid time off, remote work options, or other perks that may attract candidates].\n\n**Company Name** is an equal opportunity employer and values diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. \n",
-            "outreach_message": "\nHi {candidate_name},\n\nI hope this message finds you well! I wanted to reach out and share an exciting opportunity that I think could be a great fit for you.\n\nAre you a skilled Full Stack Developer with experience in React, Angular, or Vue.js, and back-end technologies like Python, Node.js, Java, or PHP? We're looking for someone passionate about building user-centric web applications. Click here to apply and complete our screening test: \n{job_link} \n\n\nPlease feel free to reach out if you have any questions or would like to learn more about the role and our team!\n\nLooking forward to hearing from you.\n\nBest regards,\n{sender_name}\n",
+            "job_description": "\n## Laravel Developer\n\n**PT Sinar Mas Utama**\n\n**Job Summary:**\n\nWe are seeking a talented and passionate Laravel Developer to join our growing team. As a Laravel Developer, you will be responsible for building and maintaining high-quality web applications using the Laravel framework. You will work closely with our team to design, develop, and deploy innovative solutions that meet our business needs. Your role will be crucial in ensuring the smooth operation and continuous improvement of our web platforms.\n\n**Responsibilities:**\n\n* Develop and maintain web applications using the Laravel framework, adhering to best practices and coding standards.\n* Translate designs and wireframes into functional, user-friendly web applications.\n* Write clean, well-documented, and efficient code.\n* Collaborate with designers and other developers to ensure seamless integration and functionality.\n* Implement and maintain APIs for integration with other systems.\n* Troubleshoot, debug, and resolve technical issues.\n* Stay up-to-date with the latest Laravel trends and technologies.\n\n**Qualifications:**\n\n* Strong understanding of PHP and object-oriented programming principles.\n* Proven experience working with Laravel framework.\n* Familiarity with relational databases (MySQL, PostgreSQL) and database design principles.\n* Experience with front-end technologies such as HTML, CSS, and JavaScript.\n* Excellent problem-solving and analytical skills.\n* Strong communication and collaboration skills.\n* Ability to work independently and as part of a team.\n\n**Preferred Qualifications:**\n\n* Experience with version control systems (Git).\n* Knowledge of unit testing and integration testing.\n* Experience with cloud platforms (AWS, Google Cloud, Azure).\n* Familiarity with Agile development methodologies.\n\n**Benefits:**\n\n* Competitive salary and benefits package.\n* Opportunities for professional development and growth.\n* Collaborative and supportive work environment.\n* Flexible work arrangements.\n* Health insurance and other benefits.\n* Paid time off and holidays.\n\",\n  \"OutreachMessage\": \"\nHi {candidate_name},\n\nI hope this message finds you well! I wanted to reach out and share an exciting opportunity that I think could be a great fit for you.\n\nAre you a skilled Laravel Developer with a passion for building high-quality web applications? We're seeking a talented individual to join our team and contribute to our innovative projects.  Click here to apply and complete our screening test: \n{job_link} \n\n\nPlease feel free to reach out if you have any questions or would like to learn more about the role and our team!\n\nLooking forward to hearing from you.\n\nBest regards,\n{sender_name}\n",
+            "outreach_message": "\nHi {candidate_name},\n\nI hope this message finds you well! I wanted to reach out and share an exciting opportunity that I think could be a great fit for you.\n\nAre you a skilled Laravel Developer with a passion for building high-quality web applications? We're seeking a talented individual to join our team and contribute to our innovative projects.  Click here to apply and complete our screening test: \n{job_link} \n\n\nPlease feel free to reach out if you have any questions or would like to learn more about the role and our team!\n",
             "generate_mcq": [
                 {
-                    "question": "You are tasked with building a real-time chat application for a large user base.  The application needs to be scalable, handle concurrent connections efficiently, and provide a seamless user experience.  Which of the following technologies would be the most suitable choice for the back-end architecture of this application, considering factors like performance, scalability, and real-time communication?",
+                    "question": "Apa yang dimaksud dengan UI Design?",
                     "multiple_choices": [
                         {
-                            "content": "A traditional monolithic architecture with a single server handling all requests."
+                            "content": "Seni merancang pengalaman pengguna secara keseluruhan dalam sebuah produk digital."
                         },
                         {
-                            "content": "A microservices architecture with each service responsible for a specific functionality, utilizing a message queue for real-time communication.",
+                            "content": "Fondasi dan struktur yang membentuk tata letak dan fungsionalitas produk digital."
+                        },
+                        {
+                            "content": "Seni merancang antarmuka pengguna yang menarik dan estetis dalam produk digital.",
                             "is_correct": true
                         },
                         {
-                            "content": "A serverless architecture using AWS Lambda functions for handling individual chat messages."
-                        },
-                        {
-                            "content": "A client-server architecture with a single server handling all client connections."
+                            "content": "Proses menguji dan meningkatkan kegunaan dan kepuasan pengguna terhadap produk digital."
                         }
                     ]
                 },
                 {
-                    "question": "You are working on a complex web application with a large codebase.  The application needs to be modular, maintainable, and easily testable.  Which of the following approaches would be most effective in achieving these goals?",
+                    "question": "Apa yang dimaksud dengan UI Design?",
                     "multiple_choices": [
                         {
-                            "content": "Using a single monolithic codebase with all functionalities tightly coupled."
+                            "content": "Seni merancang pengalaman pengguna secara keseluruhan dalam sebuah produk digital."
                         },
                         {
-                            "content": "Adopting a microservices architecture with each service responsible for a specific functionality."
+                            "content": "Fondasi dan struktur yang membentuk tata letak dan fungsionalitas produk digital."
                         },
                         {
-                            "content": "Implementing a component-based architecture with reusable components for different functionalities.",
+                            "content": "Seni merancang antarmuka pengguna yang menarik dan estetis dalam produk digital.",
                             "is_correct": true
                         },
                         {
-                            "content": "Using a single-page application (SPA) framework for the entire application."
-                        }
-                    ]
-                },
-                {
-                    "question": "You are tasked with optimizing the performance of a web application that is experiencing slow loading times.  Which of the following techniques would be most effective in improving the application's performance?",
-                    "multiple_choices": [
-                        {
-                            "content": "Minimizing the number of HTTP requests by combining multiple CSS and JavaScript files into a single file.",
-                            "is_correct": true
-                        },
-                        {
-                            "content": "Using a CDN to distribute static assets across multiple servers."
-                        },
-                        {
-                            "content": "Implementing server-side rendering to generate HTML on the server before sending it to the client."
-                        },
-                        {
-                            "content": "Using a caching mechanism to store frequently accessed data in memory."
-                        }
-                    ]
-                },
-                {
-                    "question": "You are developing a web application that requires secure authentication and authorization.  Which of the following security measures would be most effective in protecting user data and preventing unauthorized access?",
-                    "multiple_choices": [
-                        {
-                            "content": "Using HTTPS to encrypt communication between the client and server."
-                        },
-                        {
-                            "content": "Implementing two-factor authentication (2FA) to require users to provide multiple forms of authentication.",
-                            "is_correct": true
-                        },
-                        {
-                            "content": "Storing user passwords in plain text in the database."
-                        },
-                        {
-                            "content": "Using a secure password hashing algorithm to store user passwords."
-                        }
-                    ]
-                },
-                {
-                    "question": "You are working on a project that requires integrating with a third-party API.  Which of the following approaches would be most effective in ensuring the reliability and maintainability of the integration?",
-                    "multiple_choices": [
-                        {
-                            "content": "Hardcoding the API credentials directly into the application code."
-                        },
-                        {
-                            "content": "Using a dedicated API client library to handle communication with the third-party API.",
-                            "is_correct": true
-                        },
-                        {
-                            "content": "Manually handling all API requests and responses using HTTP libraries."
-                        },
-                        {
-                            "content": "Using a web service to act as a proxy between the application and the third-party API."
-                        }
-                    ]
-                },
-                {
-                    "question": "You are tasked with building a web application that needs to handle a large volume of user-generated content.  Which of the following database technologies would be most suitable for storing and managing this content?",
-                    "multiple_choices": [
-                        {
-                            "content": "A relational database management system (RDBMS) like MySQL or PostgreSQL."
-                        },
-                        {
-                            "content": "A NoSQL database like MongoDB or Cassandra.",
-                            "is_correct": true
-                        },
-                        {
-                            "content": "A file system-based storage solution like Amazon S3."
-                        },
-                        {
-                            "content": "A key-value store like Redis."
-                        }
-                    ]
-                },
-                {
-                    "question": "You are working on a project that requires deploying a web application to a cloud platform.  Which of the following cloud platforms would be most suitable for deploying a highly scalable and reliable web application?",
-                    "multiple_choices": [
-                        {
-                            "content": "Amazon Web Services (AWS)",
-                            "is_correct": true
-                        },
-                        {
-                            "content": "Microsoft Azure"
-                        },
-                        {
-                            "content": "Google Cloud Platform (GCP)"
-                        },
-                        {
-                            "content": "Heroku"
-                        }
-                    ]
-                },
-                {
-                    "question": "You are tasked with implementing a continuous integration and continuous delivery (CI/CD) pipeline for a web application.  Which of the following tools would be most suitable for automating the build, test, and deployment process?",
-                    "multiple_choices": [
-                        {
-                            "content": "Jenkins",
-                            "is_correct": true
-                        },
-                        {
-                            "content": "GitHub Actions"
-                        },
-                        {
-                            "content": "Travis CI"
-                        },
-                        {
-                            "content": "CircleCI"
-                        }
-                    ]
-                },
-                {
-                    "question": "You are working on a project that requires using a front-end framework for building a user interface.  Which of the following frameworks would be most suitable for building a complex and interactive web application with a focus on performance and scalability?",
-                    "multiple_choices": [
-                        {
-                            "content": "React",
-                            "is_correct": true
-                        },
-                        {
-                            "content": "Angular"
-                        },
-                        {
-                            "content": "Vue.js"
-                        },
-                        {
-                            "content": "jQuery"
+                            "content": "Proses menguji dan meningkatkan kegunaan dan kepuasan pengguna terhadap produk digital."
                         }
                     ]
                 }
             ],
-            "generate_coding_text": "## Coding Challenge:  Finding the Most Frequent Element\n\nThis challenge assesses your ability to work with arrays and basic algorithms. You'll need to write pseudocode to find the most frequent element in an array of integers.\n\n**Problem:**\n\nGiven an array of integers, find the element that appears most frequently. If multiple elements have the same highest frequency, return any one of them.\n\n**Example:**\n\n```\nInput: [1, 2, 3, 2, 1, 4, 2]\nOutput: 2 \n```\n\n**Edge Cases:**\n\n* **Empty Array:** If the input array is empty, return `null`.\n* **All Elements Equal:** If all elements in the array are the same, return any one of them.\n\n**Instructions:**\n\n1. **Understand the Problem:** Read the problem description carefully and understand the input, output, and edge cases.\n2. **Develop a Solution:**  Write pseudocode to solve the problem using basic programming concepts like loops, conditionals, and data structures.\n3. **Focus on Efficiency:**  Think about how to optimize your solution for speed and clarity.\n4. **Submit Your Solution:**  Submit your pseudocode solution in a clear and concise format.\n\n**Note:** You only need to submit the pseudocode, not the actual code. \n\n**Let's see your solution!** \n"
+            "generate_video_interview": [
+                {
+                    "question": "This is question for video interview"
+                },
+                {
+                    "question": "This is question for video interview"
+                }
+            ],
+            "generate_essay_question": [
+                {
+                    "question": "This is question for essay question"
+                },
+                {
+                    "question": "This is question for essay question"
+                }
+            ]
         }
     }
 }
