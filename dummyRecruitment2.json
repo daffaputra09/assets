@@ -1,0 +1,207 @@
+{
+    "statusCode": 200,
+    "message": "OK",
+    "fulfilled": 1,
+    "data": {
+        "generate_id": "queue/b24ee361-98f9-4a86-8918-4410c8f3a57d/1726553516288/f23fff31-7ae5-4c4d-b88b-72c9cbedbd1d",
+        "recruitment_id": "f23fff31-7ae5-4c4d-b88b-72c9cbedbd1d",
+        "progress_status": "finish",
+        "message": "Saving Job",
+        "result_recruitment": {
+            "job_description": "## Laravel Developer\n\n**Job Summary**\n\nPT Sinarmas Indonesia is seeking a talented and passionate Laravel Developer to join our growing team. As a Laravel Developer, you will play a crucial role in building and maintaining high-quality, scalable web applications that support our business operations and enhance user experiences. You will work closely with our development team to design, develop, and implement innovative solutions using the Laravel framework.\n\n**Responsibilities**\n\n* Develop and maintain web applications using the Laravel framework, adhering to best practices and coding standards.\n* Design, implement, and test API endpoints to facilitate data exchange between applications.\n* Collaborate with designers and other developers to translate wireframes and mockups into functional web applications.\n* Optimize application performance and ensure scalability to accommodate growing user bases.\n* Troubleshoot and resolve technical issues related to Laravel applications.\n* Participate in code reviews and contribute to the continuous improvement of our development processes.\n* Stay up-to-date with the latest Laravel best practices, security updates, and industry trends.\n\n**Qualifications**\n\n* Strong understanding of PHP programming language and object-oriented programming principles.\n* Proven experience working with the Laravel framework, including its core features and libraries.\n* Proficiency in HTML, CSS, and JavaScript.\n* Experience with relational databases (e.g., MySQL) and database design principles.\n* Familiarity with version control systems like Git.\n* Excellent problem-solving and analytical skills.\n* Strong communication and interpersonal skills, with the ability to work effectively within a team.\n\n**Preferred Qualifications**\n\n* Experience with front-end frameworks such as React, Vue.js, or Angular.\n* Familiarity with cloud platforms like AWS or Google Cloud.\n* Experience with automated testing frameworks.\n* Knowledge of agile development methodologies.\n\n**Benefits**\n\nPT Sinarmas Indonesia offers a competitive salary and benefits package, including:\n\n* Comprehensive health insurance coverage\n* Paid time off and holidays\n* Retirement savings plan\n* Professional development opportunities\n* A collaborative and supportive work environment\n\nWe believe in fostering a culture of innovation, learning, and growth. Join our team and make a real impact on our business! \n",
+            "outreach_message": "\nHi {candidate_name},\n\nI hope this message finds you well! I wanted to reach out and share an exciting opportunity that I think could be a great fit for you.\n\nAre you a skilled Laravel Developer with a passion for building high-quality web applications? We're looking for someone with strong PHP and Laravel experience, proficiency in HTML, CSS, and JavaScript, and familiarity with relational databases. If you're interested in joining our growing team and contributing to innovative solutions, click here to apply and complete our screening test: \n{job_link} \n\n\nPlease feel free to reach out if you have any questions or would like to learn more about the role and our team!\n\nLooking forward to hearing from you.\n\nBest regards,\n{sender_name}\n",
+            "generate_mcq": [
+                {
+                    "question": "You are tasked with building a feature that requires real-time updates for multiple users. Which Laravel package would you most likely use to achieve this, considering its efficiency and scalability?",
+                    "multiple_choices": [
+                        {
+                            "content": "Laravel Echo with Pusher or Socket.IO",
+                            "is_correct": true
+                        },
+                        {
+                            "content": "Laravel Queue with Redis"
+                        },
+                        {
+                            "content": "Laravel Caching with Memcached"
+                        },
+                        {
+                            "content": "Laravel Broadcasting with Redis"
+                        }
+                    ]
+                },
+                {
+                    "question": "You need to implement a secure authentication system for your Laravel application. Which of the following approaches would you prioritize for robust security and ease of maintenance?",
+                    "multiple_choices": [
+                        {
+                            "content": "Custom authentication system with bcrypt hashing and session management"
+                        },
+                        {
+                            "content": "Laravel Passport for OAuth2 authentication",
+                            "is_correct": true
+                        },
+                        {
+                            "content": "Sanctum for API authentication with token-based authorization"
+                        },
+                        {
+                            "content": "Socialite for authentication through third-party providers"
+                        }
+                    ]
+                },
+                {
+                    "question": "You are tasked with optimizing the performance of a Laravel application experiencing slow loading times. Which of the following strategies would you prioritize to address this issue?",
+                    "multiple_choices": [
+                        {
+                            "content": "Implementing database query optimization techniques, such as indexing and using efficient joins",
+                            "is_correct": true
+                        },
+                        {
+                            "content": "Utilizing a content delivery network (CDN) to cache static assets"
+                        },
+                        {
+                            "content": "Employing a caching mechanism like Redis to store frequently accessed data"
+                        },
+                        {
+                            "content": "Leveraging a task scheduler to offload time-consuming processes"
+                        }
+                    ]
+                },
+                {
+                    "question": "You are building a feature that requires sending emails to users. Which Laravel component would you utilize to handle email sending efficiently and reliably?",
+                    "multiple_choices": [
+                        {
+                            "content": "Laravel Mail",
+                            "is_correct": true
+                        },
+                        {
+                            "content": "Laravel Queue"
+                        },
+                        {
+                            "content": "Laravel Notifications"
+                        },
+                        {
+                            "content": "Laravel Broadcasting"
+                        }
+                    ]
+                },
+                {
+                    "question": "You need to implement a feature that allows users to upload and manage files within your Laravel application. Which Laravel component would you leverage for this purpose?",
+                    "multiple_choices": [
+                        {
+                            "content": "Laravel File System",
+                            "is_correct": true
+                        },
+                        {
+                            "content": "Laravel Storage"
+                        },
+                        {
+                            "content": "Laravel Validation"
+                        },
+                        {
+                            "content": "Laravel Events"
+                        }
+                    ]
+                },
+                {
+                    "question": "You are developing a feature that requires handling user input and ensuring its validity. Which Laravel component would you utilize to enforce data validation rules?",
+                    "multiple_choices": [
+                        {
+                            "content": "Laravel Validation",
+                            "is_correct": true
+                        },
+                        {
+                            "content": "Laravel Request"
+                        },
+                        {
+                            "content": "Laravel Authorization"
+                        },
+                        {
+                            "content": "Laravel Middleware"
+                        }
+                    ]
+                },
+                {
+                    "question": "You are working on a project that requires integrating with an external API. Which Laravel component would you use to facilitate this integration?",
+                    "multiple_choices": [
+                        {
+                            "content": "Laravel Http Client",
+                            "is_correct": true
+                        },
+                        {
+                            "content": "Laravel Queue"
+                        },
+                        {
+                            "content": "Laravel Cache"
+                        },
+                        {
+                            "content": "Laravel Session"
+                        }
+                    ]
+                },
+                {
+                    "question": "You need to implement a feature that requires generating unique identifiers for various entities within your application. Which Laravel component would you leverage for this purpose?",
+                    "multiple_choices": [
+                        {
+                            "content": "Laravel Str",
+                            "is_correct": true
+                        },
+                        {
+                            "content": "Laravel Hash"
+                        },
+                        {
+                            "content": "Laravel UUID"
+                        },
+                        {
+                            "content": "Laravel Random"
+                        }
+                    ]
+                },
+                {
+                    "question": "You are tasked with implementing a feature that requires handling user roles and permissions within your Laravel application. Which Laravel component would you utilize to manage these aspects effectively?",
+                    "multiple_choices": [
+                        {
+                            "content": "Laravel Authorization",
+                            "is_correct": true
+                        },
+                        {
+                            "content": "Laravel Authentication"
+                        },
+                        {
+                            "content": "Laravel Gates"
+                        },
+                        {
+                            "content": "Laravel Policies"
+                        }
+                    ]
+                },
+                {
+                    "question": "You are building a feature that requires storing and retrieving data from a database. Which Laravel component would you use to interact with the database efficiently and securely?",
+                    "multiple_choices": [
+                        {
+                            "content": "Laravel Eloquent ORM",
+                            "is_correct": true
+                        },
+                        {
+                            "content": "Laravel Query Builder"
+                        },
+                        {
+                            "content": "Laravel Database"
+                        },
+                        {
+                            "content": "Laravel Migrations"
+                        }
+                    ]
+                }
+            ],
+            "generate_video_interview": [
+                {
+                    "question": "Imagine you're working on a complex Laravel project with a tight deadline. You encounter a critical bug that seems impossible to fix. How would you approach this situation, balancing the need for a quick solution with the importance of maintaining code quality and long-term stability? Describe your thought process and the steps you would take."
+                }
+            ],
+            "generate_essay_question": [
+                {
+                    "question": "You are tasked with creating a simple web application that allows users to store and retrieve a list of their favorite books. The application should have the following features:\n\n1.  **Add a Book:** Users should be able to add a new book to their list by providing the book's title, author, and genre.\n2.  **View Book List:** Users should be able to view their complete list of favorite books, including the title, author, and genre of each book.\n3.  **Delete a Book:** Users should be able to remove a book from their list.\n\n**Instructions:**\n\nPlease provide pseudocode for the PHP functions that would be used to implement these features. You can assume that the application uses a database to store the book data. You do not need to provide actual code, just the logical steps involved in implementing each function.\n\n**Example:**\n\n**Add Book Function:**\n\n```php\nfunction addBook($title, $author, $genre) {\n    // 1. Validate the input data (title, author, genre)\n    // 2. Connect to the database\n    // 3. Insert the book data into the database table\n    // 4. Close the database connection\n    // 5. Return a success message or an error message\n}\n```\n\n**Note:**\n\nYou only need to provide the pseudocode for the functions. You do not need to write the actual code. Focus on the logic and flow of the functions, and ensure that the pseudocode is clear and easy to understand."
+                }
+            ]
+        }
+    }
+}
